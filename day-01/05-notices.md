@@ -47,7 +47,7 @@ Priya Raghunathan, Guest Relations Manager
 
 ### 1. `ongoing` vs. `undergoing` — similar shapes, different grammar
 
-Your deck flags this pair, and it is a Part 5 regular:
+Your deck flags this pair, and it is a regular in sentence-completion questions:
 
 | Word | Part of speech | Meaning | Where it sits |
 |---|---|---|---|
@@ -92,11 +92,11 @@ Passage A puts both phrases in one paragraph on purpose, so you have to separate
 - **`passenger`** = a passenger of any kind.
 - **`peak hours` / `rush hour`** = the busiest travel times | `off-peak` = outside them.
 
-A Part 7 detail trap: the notice says "Commuters travelling during **peak hours** should not be affected," so "Who is most likely to be affected?" → **people travelling mid-morning**, because the reduced service runs 9:00–3:00, which falls between the two rush hours. **With any timetable notice, pair each time window with the group it affects as you read.**
+A detail trap: the notice says "Commuters travelling during **peak hours** should not be affected," so "Who is most likely to be affected?" → **people travelling mid-morning**, because the reduced service runs 9:00–3:00, which falls between the two rush hours. **With any timetable notice, pair each time window with the group it affects as you read.**
 
 ### 4. `the inconvenience that the delay is causing passengers` — a double-object clause
 
-This phrasing recurs throughout TOEIC apologies and is worth taking apart:
+This phrasing recurs throughout formal apologies and is worth taking apart:
 
 ```
 the inconvenience [that the delay is causing passengers]
@@ -150,7 +150,7 @@ Near-synonyms: `prompt` is about speed; `punctual` is about not being late.
 
 - **`cater to sb/sth`** = **to serve or accommodate** a need; `cater **for** an event` = to supply food for it.
   > We cater **to** both business travellers and families.
-  ⚠️ With `both … and …`, the two items must be **structurally parallel** — in Passage B, *your dietary requirements* and *your preference* are both noun phrases. That parallelism is exactly what Part 5 tests.
+  ⚠️ With `both … and …`, the two items must be **structurally parallel** — in Passage B, *your dietary requirements* and *your preference* are both noun phrases. That parallelism is exactly what sentence-completion questions test.
 - **`courteous`** [ˈkɜːrtiəs] = **polite and considerate**, more formal than *polite* and more reserved than *friendly*. Noun `courtesy`.
   `courtesy` also carries a "provided free" sense: `a courtesy shuttle`, `a courtesy call`.
 - **`procedure`** = **an established set of steps**. `follow a procedure`.
@@ -171,7 +171,7 @@ Relatives:
 - `S + happen to do` — *I happened to be in the area.*
 - `as it happens` (parenthetical)
 
-**Reading the context**: in a service email, this phrase usually introduces **a coincidence that worked against the customer** — here, why the room was released. Part 7: "Why was the room not held?" → the hotel was full because of a conference block, and the guest could not be reached.
+**Reading the context**: in a service email, this phrase usually introduces **a coincidence that worked against the customer** — here, why the room was released. A likely question: "Why was the room not held?" → the hotel was full because of a conference block, and the guest could not be reached.
 
 ### 9. `numerous times` / `only a phone call away` / `extend business hours`
 
@@ -201,7 +201,7 @@ Relatives:
 
 → Shuttle buses will **replace** trains.
 
-⚠️ Keep the direction straight: *A takes the place of B* = *A replaces B* = **A substitutes for B**. Reversed, it becomes *B is replaced **by** A*. TOEIC paraphrase questions love to flip this.
+⚠️ Keep the direction straight: *A takes the place of B* = *A replaces B* = **A substitutes for B**. Reversed, it becomes *B is replaced **by** A*. Paraphrase questions love to flip this.
 
 </details>
 
@@ -237,7 +237,7 @@ Peak-hour commuters are explicitly said to be unaffected. This is the classic el
 - `complimentary breakfast` = a free breakfast
 - `complementary colours` = colours that complete each other
 
-The two differ by a single letter (**i** vs **e**), and TOEIC will put them in the same set of Part 5 options. Hook: compl**i**mentary contains **i**, as in "**I** pay nothing."
+The two differ by a single letter (**i** vs **e**), and examiners will put them in the same set of options. Hook: compl**i**mentary contains **i**, as in "**I** pay nothing."
 
 </details>
 

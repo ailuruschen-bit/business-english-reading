@@ -44,7 +44,7 @@ A final note on language: the flat itself may be **for sale**, but the furniture
 
 ### 1. `property` / `real estate` / `premises` — not interchangeable
 
-Your deck flags this trio, and it underpins every property passage in TOEIC:
+Your deck flags this trio, and it underpins every property passage in the exam:
 
 | Word | What it refers to | Countability | Example |
 |---|---|---|---|
@@ -67,7 +67,7 @@ Hooks:
 | `for sale` | **Available to buy** (discounted or not) |
 | `on sale` | ① **Reduced in price** (American — the tested sense) ② released for purchase (British) |
 
-So that sentence reads: *the flat is being sold, but the furniture is not discounted.* TOEIC uses **American** conventions: `on sale` = on discount.
+So that sentence reads: *the flat is being sold, but the furniture is not discounted.* The exam uses **American** conventions: `on sale` = on discount.
 
 Related, and also in your deck: `All sales are final.` = **no refunds or exchanges** — a fixture of retail small print.
 
@@ -108,7 +108,7 @@ Same family:
 - `They don't make them like this anymore.` = the old quality is gone
 - `You won't find a better deal.` = this is the best available
 
-These sentences are **inference-question bait** in Part 7: "What does the writer suggest about the property?" → always *It is of unusually high quality.*
+These sentences are **inference-question bait**: "What does the writer suggest about the property?" → always *It is of unusually high quality.*
 
 ### 6. `bargain` — the noun is the tested item
 
@@ -117,7 +117,7 @@ As a noun, `bargain` = **something sold cheaply, a good deal** — not haggling 
 > At $1.24 million this is no **bargain**.
 > At that price, it is hardly cheap.
 
-⚠️ That sentence is **negative**. Part 7 will ask "What does the agent admit about the price?" → *It is expensive.* The agent concedes the price and then pivots with "it represents exceptional value" — the classic advertising structure: concede, then justify.
+⚠️ That sentence is **negative**. The reading section will ask "What does the agent admit about the price?" → *It is expensive.* The agent concedes the price and then pivots with "it represents exceptional value" — the classic advertising structure: concede, then justify.
 
 `value` vs `price` vs `cost`:
 - `price` = what is charged | `cost` = what you spend | `value` = what it is worth
@@ -144,10 +144,10 @@ The opening of Passage B compresses a whole cluster of your banking cards, and w
 > Royal Bank lowered all its key mortgage rates **across the board**, **while** TD Canada Trust **excluded** its ten-year rate.
 
 - `across the board` = **applying to everything equally** (from the odds board at a racetrack).
-- `while` here means **whereas**, not *when* — it marks **contrast**. This is a favourite TOEIC trap: when `while` sits mid-sentence with two different subjects on either side, it is almost always contrast.
+- `while` here means **whereas**, not *when* — it marks **contrast**. This is a favourite trap: when `while` sits mid-sentence with two different subjects on either side, it is almost always contrast.
 - `except for` = **apart from** — carving one item out of a set.
 
-So: **Royal cut everything; TD cut everything except the ten-year rate.** Part 7 asks "Which rate was NOT reduced by TD?" → the ten-year rate.
+So: **Royal cut everything; TD cut everything except the ten-year rate.** The reading section asks "Which rate was NOT reduced by TD?" → the ten-year rate.
 
 A related card: `rates on mortgages with **terms of four years or longer**`. ⚠️ In finance `term` means **duration**, not a technical word and not a clause (contract clauses are `terms and conditions`, plural).
 
@@ -179,7 +179,7 @@ A related card: `rates on mortgages with **terms of four years or longer**`. ⚠
 
 <details><summary>Answer and explanation</summary>
 
-**False**, in the American usage TOEIC follows. `on sale` = **discounted**, so the sentence means *the furniture is not reduced in price*.
+**False**, in the American usage the exam follows. `on sale` = **discounted**, so the sentence means *the furniture is not reduced in price*.
 
 "Not being sold" would be `not for sale`. This one-word difference appears in advertising passages constantly.
 
@@ -204,7 +204,7 @@ The adverb `financially` modifies the adjective `sound`, and the whole phrase is
 
 Original: `complete the formalities required to obtain a mortgage **well before** making an offer`.
 
-`well before` = considerably earlier than. That intensifying `well` (as in *well over*, *well within*, *well above*) is itself a frequent Part 5 item.
+`well before` = considerably earlier than. That intensifying `well` (as in *well over*, *well within*, *well above*) is itself a frequent exam item.
 
 </details>
 
@@ -214,7 +214,7 @@ Original: `complete the formalities required to obtain a mortgage **well before*
 
 **Conceding that the price is high, then arguing it is worth it.**
 
-This concede-then-justify structure is standard in luxury copy. Part 7 asks "What does Hartley acknowledge about the property?" → *It is costly.*
+This concede-then-justify structure is standard in luxury copy. The reading section asks "What does Hartley acknowledge about the property?" → *It is costly.*
 
 The one thing that must not slip is `no bargain` versus `a bargain` — a single word reverses the sentence. **When reading advertisements, locate every negative first.** It is the cheapest error-prevention habit there is.
 

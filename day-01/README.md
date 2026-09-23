@@ -1,6 +1,6 @@
 # Day 01 · Full-Day Reading Pack
 
-> Built from the **296 cards** in your Anki `TOEIC` deck. The "gaps this unit targets" line at the top of each unit is drawn directly from your own cards.
+> Built from the **296 cards** in your Anki deck. The "gaps this unit targets" line at the top of each unit is drawn directly from your own cards.
 >
 > **Contents**: 10 units · 19 passages · 58 self-test items
 > **Total time**: about 108 minutes, designed to break into ten separate short sessions

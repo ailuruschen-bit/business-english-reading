@@ -86,7 +86,7 @@ grievance → dispute over wages → negotiations
 
 ⚠️ In finance `negotiable` also means transferable: `negotiable securities`.
 
-This verb / noun / person / adjective set is how Part 5 word-form questions are built. Others in your deck: `apply–application–applicant`, `consult–consultation–consultant`, `counsel–counseling–counselor`.
+This verb / noun / person / adjective set is how word-form questions are built. Others in your deck: `apply–application–applicant`, `consult–consultation–consultant`, `counsel–counseling–counselor`.
 
 ### 4. `be well received` — a fixed passive with an adverb
 
@@ -127,7 +127,7 @@ The set that examiners group together:
 | `supervise` | to direct people day to day |
 | `manage` | to run, broadly |
 
-Part 7 paraphrase: `head the department` = `be in charge of the department` = `serve as the department's director`.
+Paraphrase: `head the department` = `be in charge of the department` = `serve as the department's director`.
 
 ### 6. `morale` vs. `moral` — one letter apart
 
@@ -176,7 +176,7 @@ Correct usage:
 
 Hook: **staff are people, stuff is things — one letter, two different species.**
 
-The accompanying adjectives in Passage B: `strong and able sales representatives`. `able` = capable; it is coordinated with `strong` to modify the same noun, which is a Part 5 parallel-structure point.
+The accompanying adjectives in Passage B: `strong and able sales representatives`. `able` = capable; it is coordinated with `strong` to modify the same noun, which is a parallel-structure point.
 
 ### 9. `counterpart` — your opposite number
 
@@ -186,11 +186,11 @@ The accompanying adjectives in Passage B: `strong and able sales representatives
 
 > the French foreign minister and his German **counterpart** — i.e. the German foreign minister
 
-Part 7 exploits this: "Who should Ravi contact?" → not his own manager, but **the person at Fenwick who holds Ravi's job there**.
+The reading section exploits this: "Who should Ravi contact?" → not his own manager, but **the person at Fenwick who holds Ravi's job there**.
 
 ### 10. Management vocabulary: `leverage` / `synergy` / `regroup`
 
-These three are corporate-speak of the kind that fills memos and annual reports, and TOEIC uses them freely:
+These three are corporate-speak of the kind that fills memos and annual reports, and the exam uses them freely:
 
 - **`leverage`**
   - Noun = influence, or financial gearing
@@ -268,9 +268,9 @@ Distractors: `counterfeit` = forged; `countermeasure` = a response to a threat; 
 
 Original: `the terms were **identical to the ones** offered in August`.
 
-⚠️ `identical **to**` — the standard preposition is *to* (*identical with* exists but *to* is what TOEIC tests). This sentence is in your deck precisely for the preposition.
+⚠️ `identical **to**` — the standard preposition is *to* (*identical with* exists but *to* is what the exam tests). This sentence is in your deck precisely for the preposition.
 
-Note also that `the ones` substitutes for `the terms`, avoiding repetition. Part 7 reference questions ask what such a pronoun points to.
+Note also that `the ones` substitutes for `the terms`, avoiding repetition. Reference questions ask what such a pronoun points to.
 
 </details>
 
@@ -282,7 +282,7 @@ Note also that `the ones` substitutes for `the terms`, avoiding repetition. Part
 
 Her argument is that morale depends **far more on what is said in the next six weeks** than on whatever is announced in January. This is an author's-intent question: the answer is not in any single word but in the contrast built by `far more … than …`.
 
-`far more A than B` = much more A than B. **Whenever you meet a comparison, fix which item is A and which is B** — swapping them is the standard wrong answer in TOEIC.
+`far more A than B` = much more A than B. **Whenever you meet a comparison, fix which item is A and which is B** — swapping them is the standard wrong answer.
 
 </details>
 

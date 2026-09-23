@@ -60,11 +60,11 @@ These are near-standard in promotional copy, and all of them are **compound adje
 | `cutting-edge` | at the leading edge | the blade's edge |
 | `well-established` | long-standing, proven | |
 
-⚠️ **The hyphen rule** (a Part 5 point):
+⚠️ **The hyphen rule** (a tested point):
 - Before a noun (attributive) → hyphenated: `state-of-the-art equipment` ✅
 - After a linking verb (predicative) → usually not: `The equipment is state of the art.` ✅
 
-Paraphrases for Part 7: `state-of-the-art` ≈ `the most advanced` ≈ `cutting-edge` ≈ `the latest`.
+Paraphrases to expect: `state-of-the-art` ≈ `the most advanced` ≈ `cutting-edge` ≈ `the latest`.
 
 ### 2. Gym vocabulary, learned once
 
@@ -110,7 +110,7 @@ The standard fine-print formulas — **learn them as blocks, and recognise them 
 | `terms and conditions apply` | conditions attached |
 | `offer expires 31 October` | the deadline |
 
-**A high proportion of Part 7 detail questions come out of the small print**, because the body copy contains nothing but praise and only the fine print carries constraints. Make it a habit: **after the body of an advertisement, always read the italic line at the bottom.**
+**A high proportion of detail questions come out of the small print**, because the body copy contains nothing but praise and only the fine print carries constraints. Make it a habit: **after the body of an advertisement, always read the italic line at the bottom.**
 
 ### 5. `endorsement` / `spokesperson` / `imply`
 
@@ -121,7 +121,7 @@ The standard fine-print formulas — **learn them as blocks, and recognise them 
 - **`spokesperson`** = **an official representative** (the gender-neutral form of *spokesman/spokeswoman*)
   `model spokesperson` = **a brand ambassador** (*model* here is a noun used attributively)
 - **`imply`** = **to suggest without stating**. Noun `implication`.
-  ⚠️ `imply` (the speaker suggests) vs `infer` (the listener deduces) — opposite directions, and TOEIC has tested it.
+  ⚠️ `imply` (the speaker suggests) vs `infer` (the listener deduces) — opposite directions, and the exam has tested it.
 
 **`not necessarily`** = **not inevitably** — a *partial* negation, and an important logical structure:
 
@@ -132,7 +132,7 @@ The standard fine-print formulas — **learn them as blocks, and recognise them 
 | `not all` | some but not all (partial) |
 | `none` | not one (total) |
 
-So the disclaimer means: **advertising with us does not mean we approve of the advertiser.** Part 7: "What does the disclaimer indicate?" → exactly that.
+So the disclaimer means: **advertising with us does not mean we approve of the advertiser.** A likely question: "What does the disclaimer indicate?" → exactly that.
 
 ### 6. `air` as a verb / `commercial` as a noun
 
@@ -158,7 +158,7 @@ Passage B plants this again deliberately (it was explained in Unit 03):
 > The display models are **for sale** but are not **on sale** — they carry the original price.
 > They can be bought, but they are not discounted.
 
-The clause `they carry the original price` is a gloss on the distinction. **Part 7 nearly always supplies this kind of clarifying follow-up**, so when a word is uncertain, read one clause further before deciding — the answer is usually right there.
+The clause `they carry the original price` is a gloss on the distinction. **The reading section nearly always supplies this kind of clarifying follow-up**, so when a word is uncertain, read one clause further before deciding — the answer is usually right there.
 
 ### 8. `award` / `give away` / `discretion` / `in its entirety`
 
@@ -169,7 +169,7 @@ The clause `they carry the original price` is a gloss on the distinction. **Part
 - **`give away`** = **to distribute free of charge** (also: to reveal a secret)
   ⚠️ The passage plays two similar phrases against each other: `Money will be **given away** to three winners, who will each get a chance to **go away** next summer.`
   - `give away` = to hand out free | `go away` = to take a holiday
-  Adjacent look-alikes of this sort are a standard TOEIC distraction.
+  Adjacent look-alikes of this sort are a standard distraction.
 - **`(total) discretion`** = **complete freedom to decide**
   > The judges have **total discretion** in selecting the winners.
   - `at one's discretion` = as one sees fit
@@ -178,7 +178,7 @@ The clause `they carry the original price` is a gloss on the distinction. **Part
   > Please complete the form **in its entirety**.
   ⚠️ The pronoun must agree with what it refers to. The passage has `Forms must be completed in its entirety`, which should strictly be **`in their entirety`**, since the subject *Forms* is plural.
 
-  **That error is there on purpose.** It is how Part 6 error-correction thinking works: check the subject's number, then check the pronoun. If you caught it while reading, that rule is already internalised.
+  **That error is there on purpose.** It is how error-correction thinking works: check the subject's number, then check the pronoun. If you caught it while reading, that rule is already internalised.
 - **`be referred by`** = **to be recommended by** (noun `referral`)
 - **`No correspondence will be entered into.`** = **no queries about the decision will be answered** — standard competition boilerplate (`correspondence` = letters exchanged)
 - **`reject`** = to refuse or turn down | near-synonyms `turn down`, `decline`
@@ -229,7 +229,7 @@ In a compound adjective, the noun following a number is **singular**: a five-yea
 
 `not necessarily` = not inevitably (partial negation); `endorsement` = approval or backing.
 
-Part 7 asks "What does the statement suggest about the advertisements?" and the correct option is usually paraphrased as *They are not reviewed or approved by the publisher.*
+The reading section asks "What does the statement suggest about the advertisements?" and the correct option is usually paraphrased as *They are not reviewed or approved by the publisher.*
 
 </details>
 
@@ -242,7 +242,7 @@ Part 7 asks "What does the statement suggest about the advertisements?" and the 
 
 There is a third, implied condition: **the judges' decision is final and no queries will be answered** (*No correspondence will be entered into*).
 
-This list-of-conditions question is frequent in Part 7, phrased as "What is required of entrants?" or "What is NOT mentioned as a requirement?" **On NOT questions, tick each stated condition off against the options one by one** — do not answer from a general impression of the passage.
+This list-of-conditions question is a frequent one, phrased as "What is required of entrants?" or "What is NOT mentioned as a requirement?" **On NOT questions, tick each stated condition off against the options one by one** — do not answer from a general impression of the passage.
 
 </details>
 

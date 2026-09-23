@@ -83,7 +83,7 @@ Gordon Achebe, Weir Street
 - `in close proximity to the station`
 - `the proximity of the school`
 
-The paraphrase ladder Part 7 uses:
+The paraphrase ladder the exam uses:
 `proximity to X` ≈ `being close to X` ≈ `within walking distance of X`
 
 Adjective `proximate` (rare) | opposite `remoteness`.
@@ -108,7 +108,7 @@ The distinctions:
 
 ### 4. `community character` / `village feel` / `streetscape` — planning vocabulary
 
-Three signature terms of urban writing, and TOEIC's longer Part 7 passages draw on exactly this register:
+Three signature terms of urban writing, and the longer reading passages draw on exactly this register:
 
 - **`community character`** = **the distinctive quality of a neighbourhood**
 - **`village feel`** = **a small-town atmosphere**. Note that `feel` is a **noun** here: an atmosphere or impression. Same usage in `the look and feel of the website`.
@@ -146,7 +146,7 @@ Near-synonyms: `tidy up` (lighter), `renovate` (a bigger, more formal job), `ref
   - Noun `stability` | verb `stabilize`
 - **`intimate`**
   - Adjective [ˈɪntɪmət] = ① close, personal ② **(of a place) small and welcoming**
-  - `an intimate restaurant` = a small, cosy restaurant ← the sense TOEIC and travel writing use
+  - `an intimate restaurant` = a small, cosy restaurant ← the sense the exam and travel writing use
   - Verb [ˈɪntɪmeɪt] = to hint (rare)
 - **`observation`**
   - = ① the act of watching ② **a remark or conclusion** (countable, often plural)
@@ -216,7 +216,7 @@ Near-synonyms: `tidy up` (lighter), `renovate` (a bigger, more formal job), `ref
 
 The three named are noise, cost of housing and absence of green space; the article then points out that very few mentioned commuting and almost none mentioned safety.
 
-**This is the classic Part 7 NOT structure**: state a list, then add a sentence about what was left out. The signal is the pivot `What is more interesting is what they did **not** say` — whatever follows it will be tested.
+**This is the classic NOT-question structure**: state a list, then add a sentence about what was left out. The signal is the pivot `What is more interesting is what they did **not** say` — whatever follows it will be tested.
 
 </details>
 
@@ -258,7 +258,7 @@ His two pieces of evidence: ① the lanes replaced thirty parking spaces while h
 
 His thesis is the final line: **`A stable outcome is not the same as a successful one.`**
 
-⚠️ This is an author's-attitude question. In TOEIC, attitude is **rarely pure agreement or pure opposition** — it is usually "supports the aim, questions the execution." When you see `My objection is not to X but to Y`, the answer sits on Y.
+⚠️ This is an author's-attitude question. In these passages, attitude is **rarely pure agreement or pure opposition** — it is usually "supports the aim, questions the execution." When you see `My objection is not to X but to Y`, the answer sits on Y.
 
 </details>
 

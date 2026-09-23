@@ -49,11 +49,11 @@ Daniel Whitfield
 
 ### 1. `opening` — a job vacancy, not an aperture
 
-In TOEIC the dominant sense of `opening` is **a job opening = a vacant position**. Countable.
+In business English the dominant sense of `opening` is **a job opening = a vacant position**. Countable.
 
 > The hospital has two job **openings** for certified X-ray technicians.
 
-The synonym ladder (Part 7 paraphrase questions swap freely among these):
+The synonym ladder (paraphrase questions swap freely among these):
 
 | Term | Register |
 |---|---|
@@ -69,7 +69,7 @@ The synonym ladder (Part 7 paraphrase questions swap freely among these):
 - **`apply for + a job`** = to apply for. **`apply to + an institution or person`** = to apply to.
   - `apply **for** the position` ✅ | `apply **to** the university` ✅
   - Common error: <s>apply the position</s> (dropped preposition)
-- **`application`**: ① a formal request ② a piece of software (`layout application`). Both senses appear in TOEIC Part 7.
+- **`application`**: ① a formal request ② a piece of software (`layout application`). Both senses appear in exam reading passages.
 - **`applicant`**: the person applying. The `-ant` suffix marks a person — compare `consultant`, `accountant`.
 
 One more high-frequency sense: `apply` can also mean **to be relevant to**.
@@ -81,7 +81,7 @@ One more high-frequency sense: `apply` can also mean **to be relevant to**.
 
 Fixed patterns: `be eligible **for** + noun` / `be eligible **to** + verb`.
 
-A three-way distinction TOEIC loves:
+A three-way distinction examiners love:
 
 | Word | Meaning | Example |
 |---|---|---|
@@ -132,7 +132,7 @@ Learn these as whole blocks — never assemble them word by word:
 
 > I was **subsequently** promoted from junior operator to shift supervisor.
 
-`subsequently` = later, afterwards, but more formal. Part 5 often asks you to pick among similar-looking adverbs:
+`subsequently` = later, afterwards, but more formal. Sentence-completion questions often ask you to pick among similar-looking adverbs:
 
 | Adverb | Logic |
 |---|---|
@@ -164,7 +164,7 @@ In formal business English `extend` often means **to offer or grant**, not to le
 
 <details><summary>Answer</summary>
 
-`openings`. Plural. `vacancies` also works, but `openings` is the standard TOEIC wording.
+`openings`. Plural. `vacancies` also works, but `openings` is the standard wording here.
 
 </details>
 
@@ -197,7 +197,7 @@ In formal business English `extend` often means **to offer or grant**, not to le
 
 **Nothing at all.** The ad states that only shortlisted candidates are contacted and that the company cannot respond to every application individually.
 
-Watch the date trap. 28 September is *before* the 30 September cut-off, so the application was valid — it simply was not selected. Had the question said 2 October, the answer would change to "it would not be considered." TOEIC habitually builds two layers of judgement into a single date.
+Watch the date trap. 28 September is *before* the 30 September cut-off, so the application was valid — it simply was not selected. Had the question said 2 October, the answer would change to "it would not be considered." Exam writers habitually build two layers of judgement into a single date.
 
 </details>
 

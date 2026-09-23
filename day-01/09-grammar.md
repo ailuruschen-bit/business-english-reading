@@ -25,7 +25,7 @@ Read it once. If it is heavy going, that is expected — come back to it after t
 
 ### 1. `despite` vs. `although` — what follows decides which
 
-One of the most frequently tested points in Part 5, and the rule is a single line:
+One of the most frequently tested grammar points, and the rule is a single line:
 
 | Word | Part of speech | Takes |
 |---|---|---|
@@ -70,7 +70,7 @@ In the warm-up:
 
 ### 3. The three faces of `while`
 
-`while` is among the slipperiest words in TOEIC, and all three senses are tested:
+`while` is among the slipperiest words in the exam, and all three senses are tested:
 
 | Use | Meaning | Clue |
 |---|---|---|
@@ -117,7 +117,7 @@ Other fixed expressions with relative `as`, all frequent:
 
 ### 5. Inversion with `if` omitted — the mark of formal writing
 
-TOEIC business correspondence rarely writes `if`. It **inverts** instead. Three cases, and only three:
+Business correspondence rarely writes `if`. It **inverts** instead. Three cases, and only three:
 
 | Full form | Inverted | Use |
 |---|---|---|
@@ -149,7 +149,7 @@ If + subject + had + past participle ,  subject + would/could/might + have + pas
 
 **What it means**: the circumstances were **not** favourable, and John did **not** perform well.
 
-Part 7 draws inferences from exactly this: "What does the statement suggest about John's performance?" → *It was disappointing.*
+The reading section draws inferences from exactly this: "What does the statement suggest about John's performance?" → *It was disappointing.*
 
 The other two conditional types, for completeness:
 
@@ -188,7 +188,7 @@ Understanding these two clears an entire question type at once:
   - gerund or present participle `announcing`
   - past participle `announced`
 
-**Why it matters**: Part 5 verb-form questions are really asking *does this blank have to carry the sentence's predicate?*
+**Why it matters**: verb-form questions are really asking *does this blank have to carry the sentence's predicate?*
 
 ```
 Method: find the verb that is already the predicate.
@@ -230,11 +230,11 @@ Your deck singles these out because **all three forms are identical**:
 
 > The figure **was forecast** by analysts and **was broadcast** on local radio.
 
-⚠️ `forecasted` and `broadcasted` do occur in modern usage, but **TOEIC tests the invariable forms**. If both appear among the options, choose `forecast`.
+⚠️ `forecasted` and `broadcasted` do occur in modern usage, but **the exam tests the invariable forms**. If both appear among the options, choose `forecast`.
 
 ### 11. `will increase` vs. `is predicted to increase` — degrees of certainty
 
-Your card here is really about **hedging**, and Part 6 relies on it:
+Your card here is really about **hedging**, and text-completion questions rely on it:
 
 | Expression | Certainty |
 |---|---|
@@ -334,8 +334,8 @@ Your card here is really about **hedging**, and Part 6 relies on it:
 
 ### Reading your score
 
-- **0–2 wrong**: this area is solid; these points will not cost you marks in Part 5.
-- **3–5 wrong**: reread sections 1, 4, 5 and 6. Those four cover roughly a third of Part 5's grammar items.
+- **0–2 wrong**: this area is solid; these points will not cost you marks on grammar items.
+- **3–5 wrong**: reread sections 1, 4, 5 and 6. Those four cover roughly a third of the grammar items.
 - **6 or more wrong**: work on **section 1 (despite/although)** and **section 5 (inversion)** only. They give the highest return; leave the rest for tomorrow.
 
 ---

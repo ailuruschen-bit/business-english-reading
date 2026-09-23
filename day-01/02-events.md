@@ -49,7 +49,7 @@ Please note that the Small Business **Seminar** originally scheduled for Friday 
 
 ### 1. The four event words: `seminar` / `conference` / `convention` / `exposition`
 
-A perennial TOEIC reading point, and one your deck flags explicitly. The difference is **scale** plus **purpose**:
+A perennial reading point, and one your deck flags explicitly. The difference is **scale** plus **purpose**:
 
 | Word | Scale | Purpose | Typical use |
 |---|---|---|---|
@@ -67,7 +67,7 @@ Hooks:
 ⚠️ Your card `lecture vs. conference / as part of` is really testing **`as part of`**:
 > The lecture is offered **as part of** the three-day conference.
 
-The two are not parallel; one **contains** the other. Part 7 asks "The lecture is…?" and the answer is *one event within a larger conference*.
+The two are not parallel; one **contains** the other. The reading section asks "The lecture is…?" and the answer is *one event within a larger conference*.
 
 One more phrase from your deck: `large, organized affairs`. Here `affair` means **an organised event or occasion** — not a matter of business, and certainly not a romance.
 > Conventions are large, organized **affairs** that require months of planning.
@@ -153,7 +153,7 @@ Here `as` is a **relative pronoun** referring to the whole preceding clause, and
 
 Same structure: `as was expected`, `as is often the case`, `as we agreed`.
 
-**The logical trap**: `as was first planned` means the schedule has **reverted** to the original arrangement — which implies it was changed at some point in between. Part 7 exploits this: "What does the notice suggest about the seminar?" → *Its schedule had been changed previously.*
+**The logical trap**: `as was first planned` means the schedule has **reverted** to the original arrangement — which implies it was changed at some point in between. The reading section exploits this: "What does the notice suggest about the seminar?" → *Its schedule had been changed previously.*
 
 ### 7. `due to popular demand` / `introductory session`
 
@@ -204,7 +204,7 @@ Note also `Complete dinners are included` — your card records this phrase with
 
 `proceeds` (money raised) + `be contributed to` (donated to) = fundraising. Your deck has a card for `Fulton County Fundraiser` — the same scenario.
 
-Part 7 purpose questions often ask "What is the main purpose of the event?" Do not be steered by the heading "Gala Celebration": **the title says celebration, the body says donation, and the answer follows the body.**
+Purpose questions often ask "What is the main purpose of the event?" Do not be steered by the heading "Gala Celebration": **the title says celebration, the body says donation, and the answer follows the body.**
 
 </details>
 

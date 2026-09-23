@@ -70,11 +70,11 @@ invoice issued → due date → overdue → in arrears
 
 - **`remit`** [rɪˈmɪt] = **to send payment** (formal). Noun `remittance`.
   > Payments may be **remitted** by bank transfer.
-  ⚠️ `remit` can also mean to cancel a debt or penalty, but in TOEIC it is nearly always "pay."
+  ⚠️ `remit` can also mean to cancel a debt or penalty, but in practice it is nearly always "pay."
 - **`repayment`** = **paying back** an existing debt; `payment` is any payment. The `re-` marks the returning.
 - **`paycheck`** (American) / `pay cheque` (British) = **a wage payment**.
   `a weekly paycheck`; colloquially `live paycheck to paycheck` = to have nothing left over.
-- **`bi-weekly`** = **every two weeks** (it can also mean twice a week — an ambiguous word, but in TOEIC it tracks the pay cycle).
+- **`bi-weekly`** = **every two weeks** (it can also mean twice a week — an ambiguous word, but in these texts it tracks the pay cycle).
   Compare: `biannual` = twice a year | `biennial` = every two years. That pair is the real menace.
 
 ### 3. `effective + date` — "taking effect from"
@@ -86,7 +86,7 @@ Here `effective` is an adjective placed after the noun, meaning **in force from 
 The synonym ladder:
 `effective 31 March` = `with effect from 31 March` = `as of 31 March` = `starting on 31 March`
 
-⚠️ Your cards for `starting on Monday` and `show up to work` are testing exactly this idea of a start date. Part 7 asks "When will the new rate take effect?" → find `effective / as of / starting` and read the date beside it.
+⚠️ Your cards for `starting on Monday` and `show up to work` are testing exactly this idea of a start date. The reading section asks "When will the new rate take effect?" → find `effective / as of / starting` and read the date beside it.
 
 **There is a deliberate date trap here**: the letter gives 30 September (deadline to respond), 31 March (when the plan begins) and 31 October (final payment deadline). Three dates in three different roles, and the question will target one of them. **When reading a collection letter, label each date with its role as you go** — it is the single most effective habit for this passage type.
 
@@ -124,7 +124,7 @@ Legal companions: `allege` (to claim), `charges` (accusations), `deny the charge
 - Noun: `compliance` | Adjective: `compliant`
 - Opposite: `be in violation of`
 
-The paraphrase ladder that Part 7 swaps among:
+The paraphrase ladder the exam swaps among:
 `comply with` = `conform to` = `adhere to` = `abide by` = `be in accordance with`
 
 ### 7. `prevalent` / `majority vote` / `enrollment` / `tripled`
@@ -142,7 +142,7 @@ The paraphrase ladder that Part 7 swaps among:
 
 - `Incorporated` (`Inc.`) = an American incorporated company. Written out, it follows a comma: `Merchants Trust, Incorporated`.
 - `Ltd.` (British limited company) | `Corp.` | `LLC` | `& Co.`
-- In TOEIC these are just **parts of a company name** and need no background knowledge. What you do need to recognise is the phrase `made payable to Merchants Trust, Incorporated` — **`made payable to X`** means *write the cheque to X*.
+- In the exam these are just **parts of a company name** and need no background knowledge. What you do need to recognise is the phrase `made payable to Merchants Trust, Incorporated` — **`made payable to X`** means *write the cheque to X*.
 
 ### 9. `loans` vs `profit` — a trap built into one sentence
 
@@ -150,7 +150,7 @@ The paraphrase ladder that Part 7 swaps among:
 
 `loan` = borrowed money (a liability); `profit` = earnings. The sentence means **the company owes far more than it earns in a year** — a negative signal.
 
-Part 7 inference questions love this kind of line: "What do the analysts imply about Dresden?" → *It is carrying a heavy debt burden.*
+Inference questions love this kind of line: "What do the analysts imply about Dresden?" → *It is carrying a heavy debt burden.*
 
 Companions:
 - `by a wide margin` = **by a large difference** (`margin` = the gap, or the profit rate)
@@ -181,7 +181,7 @@ The sentence means *the unpaid balance must be settled by Friday*. This is empha
 
 <details><summary>Answer and explanation</summary>
 
-**(D)** is the odd one out. The standard form is `conform **to** the standard` (*conform with* exists but TOEIC tests *to*).
+**(D)** is the odd one out. The standard form is `conform **to** the standard` (*conform with* exists but the exam tests *to*).
 
 (A), (B) and (C) are all correct. `comply` takes *with* while `conform` takes *to* — two near-synonyms with opposite prepositions, which is exactly why they are tested.
 
@@ -195,7 +195,7 @@ The sentence means *the unpaid balance must be settled by Friday*. This is empha
 
 `tripled` = became three times as large (400 × 3 = 1,200), and `more than tripled` pushes it above that.
 
-Two recurring number traps in TOEIC: ① multiples, as here ② "increase **by** 20%" (the increment) versus "increase **to** 20%" (the final figure).
+Two recurring number traps: ① multiples, as here ② "increase **by** 20%" (the increment) versus "increase **to** 20%" (the final figure).
 
 </details>
 

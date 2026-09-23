@@ -47,7 +47,7 @@ You built two cards for this group, which earns it its own section. **The core i
 - But `with regard **to**` **must** keep its *to* ✅
 - And `with regard to` takes the **singular** ✅, never <s>with regards to</s> — the plural belongs only to the sign-off.
 
-**The paraphrase ladder** (what Part 7 swaps among):
+**The paraphrase ladder** (what the exam swaps among):
 `regarding` = `concerning` = `about` = `with regard to` = `as regards` = `in reference to` = `re:` (the *Re:* line on a memo is this word).
 
 ### 2. `general / generate / generative / generous` — one root, four roads
@@ -84,7 +84,7 @@ Frequent collocations:
 > You may find the section on materials science **of interest**.
 > = you may find it interesting
 
-`of + abstract noun` = an adjective. This is a **systematic pattern**, and TOEIC tests it:
+`of + abstract noun` = an adjective. This is a **systematic pattern**, and the exam tests it:
 
 | Phrase | = adjective |
 |---|---|
@@ -138,7 +138,7 @@ Therefore:
 
 ### 6. `-able` / `-ible` / `-ous` — the invented-word trap in your deck
 
-Your card `erectable / seasonable / permissible` points at TOEIC's nastiest question type: **four plausible-looking derivatives, only one of which actually exists or fits.**
+Your card `erectable / seasonable / permissible` points at the nastiest question type there is: **four plausible-looking derivatives, only one of which actually exists or fits.**
 
 **What the suffixes do**:
 - `-able / -ible` = **capable of being …** (passive) | `-ive` = tending to | `-ous` = full of
@@ -215,7 +215,7 @@ Your deck groups these, probably because they were options in one question. Beyo
 | `cordial` | warmly formal | diplomacy, business |
 | `hospitable` | **welcoming to guests** | hosting — `warm hospitality` |
 
-Service and hospitality passages in TOEIC use `courteous` and `hospitable` almost exclusively, because they describe **professional conduct** rather than personal affection.
+Service and hospitality passages use `courteous` and `hospitable` almost exclusively, because they describe **professional conduct** rather than personal affection.
 
 ### 11. `counselor` vs. `consultant` vs. `advisor`
 
@@ -229,7 +229,7 @@ Service and hospitality passages in TOEIC use `courteous` and `hospitable` almos
 
 Hook: **counsel deals with a person's difficulties; consult deals with an organisation's problems.**
 
-⚠️ Spelling: `counsel` (to advise, one *l*) versus `council` (an assembly — the District Council in Unit 08). **They sound identical and mean nothing alike**, and TOEIC has tested it.
+⚠️ Spelling: `counsel` (to advise, one *l*) versus `council` (an assembly — the District Council in Unit 08). **They sound identical and mean nothing alike**, and the exam has tested it.
 - `city council`, `council member`
 - `counsel sb`, `legal counsel`
 
@@ -262,7 +262,7 @@ The test: **a brochure wants you to buy; a booklet or pamphlet wants you to unde
 > The Institute can **accommodate** your team. — has room for / can make arrangements for
 > **accommodations** in the east wing are limited — rooms
 
-⚠️ Both the "hold" and the "lodging" senses are frequent in TOEIC. Use the subject to decide: **a venue as subject → capacity; the word itself as subject alongside rooms → lodging.**
+⚠️ Both the "hold" and the "lodging" senses are frequent. Use the subject to decide: **a venue as subject → capacity; the word itself as subject alongside rooms → lodging.**
 
 ### 14. `withhold` / `mimic` / `function` / `anyhow` / `significant other`
 
@@ -294,7 +294,7 @@ The test: **a brochure wants you to buy; a booklet or pamphlet wants you to unde
   - `hand over` = to transfer (authority, an object, a duty)
   - `a check` (American) / `a cheque` (British)
   - `made payable to X` = made out to X (Unit 04)
-  - The ceremonial handing-over of a cheque is a staple of TOEIC event coverage.
+  - The ceremonial handing-over of a cheque is a staple of event coverage.
 
 ### 16. `the US` / `the USA` / `America` — the small point in your deck
 
@@ -307,7 +307,7 @@ The test: **a brochure wants you to buy; a booklet or pamphlet wants you to unde
 
 ⚠️ The rule: **a country name containing a common noun (States, Kingdom, Republic) takes *the*** — the United States, the United Kingdom, the Netherlands, the Philippines. Pure proper names do not: America, Japan, France, China.
 
-**A word on proper nouns generally.** Your deck contains `Detroit`, `Boston`, `Tampa City Council`, `Dresden, Inc.`, `Florentine` and `Fulton County`. In TOEIC you **never need background knowledge** about a place or company. You only need to **recognise that a capitalised word is a name**, then treat it as a label and move on. Not stopping to puzzle over unfamiliar capitalised words is the single most effective way to speed up Part 7.
+**A word on proper nouns generally.** Your deck contains `Detroit`, `Boston`, `Tampa City Council`, `Dresden, Inc.`, `Florentine` and `Fulton County`. You **never need background knowledge** about a place or company. You only need to **recognise that a capitalised word is a name**, then treat it as a label and move on. Not stopping to puzzle over unfamiliar capitalised words is the single most effective way to speed up the reading section.
 
 (For the record: `Florentine` means *of Florence* and also names a style of dish; `Dresden` is a German city, unrelated to the fictional company that borrows the name.)
 
@@ -410,11 +410,11 @@ Hook: two cots (**cc**) for two mates (**mm**).
 
 ## Closing the day
 
-These ten units cover the large majority of the roughly **240 distinct gaps** in your deck, spread across six of TOEIC's highest-frequency settings (hiring, events, property, finance, notices, labour) plus two dedicated units on grammar and word forms.
+These ten units cover the large majority of the roughly **240 distinct gaps** in your deck, spread across six of the exam's highest-frequency settings (hiring, events, property, finance, notices, labour) plus two dedicated units on grammar and word forms.
 
 **If only three things survive today, make them these:**
 
-1. **`despite` takes a noun; `although` takes a clause** (Unit 09, §1) — the single most frequent Part 5 item.
+1. **`despite` takes a noun; `although` takes a clause** (Unit 09, §1) — the single most frequent grammar item.
 2. **`staff` are people and `stuff` is things; `morale` is spirit and `moral` is ethics** (Unit 06) — the point you flagged twice.
 3. **The answers hide in the small print of advertisements and notices** (Unit 07, §4) — one reading habit, worth more than ten words.
 

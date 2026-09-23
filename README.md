@@ -1,4 +1,4 @@
-# TOEIC Reading Library
+# Business English Reading
 
 Reading material for an environment where the only thing available is a browser and github.com: plain Markdown, rendered natively, no login, no JavaScript, no audio.
 
@@ -19,8 +19,8 @@ Self-test answers live inside `<details>` blocks and stay hidden until clicked, 
 
 The passages and questions are **newly written**, but the vocabulary in them is not arbitrary:
 
-- **Vocabulary and test points** come from the **296 cards** in the user's own Anki `TOEIC` deck — real gaps collected while working through practice tests, not a generic frequency list.
-- **Settings** mirror the actual composition of TOEIC Part 7: personnel, events, property, finance, notices, manufacturing, retail, community.
+- **Vocabulary and test points** come from the **296 cards** in the user's own Anki deck — real gaps collected while working through practice tests, not a generic frequency list.
+- **Settings** mirror the actual composition of the exam's reading section: personnel, events, property, finance, notices, manufacturing, retail, community.
 - **Text types** cover job postings, cover letters, invitations, exhibitor notices, property listings, collection letters, business news, transit advisories, service emails, internal memos, columns and letters to the editor.
 
 No text from any commercial preparation book or past paper is reproduced here. Past papers are best saved for timed full-length practice under exam conditions rather than spent in short fragments of reading time.
@@ -38,6 +38,6 @@ No text from any commercial preparation book or past paper is reproduced here. P
 
 ## Scope
 
-This repository covers **reading only** — the vocabulary, grammar and discourse needed for Parts 5, 6 and 7.
+This repository covers **reading only** — the vocabulary, grammar and discourse needed for the reading sections.
 
-Listening (Parts 1–4, which carry 495 of the 990 points) is deliberately absent, because the target environment cannot play audio. It needs separate practice wherever headphones are possible. One way to bridge the two: read the conversational patterns and set phrases of Parts 3 and 4 here first, then listen to comparable audio later, when the comprehension load is already lower.
+Listening (which carries roughly half the total score) is deliberately absent, because the target environment cannot play audio. It needs separate practice wherever headphones are possible. One way to bridge the two: read the conversational patterns and set phrases of the longer listening sections here first, then listen to comparable audio later, when the comprehension load is already lower.
