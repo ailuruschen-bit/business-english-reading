@@ -1,64 +1,64 @@
-# Day 01 · 全天阅读包
+# Day 01 · Full-Day Reading Pack
 
-> 基于你 Anki `TOEIC` 牌组里 **296 张真实遗忘卡**生成。每个单元开头的"针对你的真实遗忘点"列表，都是从你自己的卡片里抽出来的。
+> Built from the **296 cards** in your Anki `TOEIC` deck. The "gaps this unit targets" line at the top of each unit is drawn directly from your own cards.
 >
-> **总量**：10 个单元 · 19 篇英文材料 · 58 道自测题
-> **总用时**：约 108 分钟（可拆成一天里的 10 段碎片时间，每段一个单元）
+> **Contents**: 10 units · 19 passages · 58 self-test items
+> **Total time**: about 108 minutes, designed to break into ten separate short sessions
 
 ---
 
-## 今日目录
+## Units
 
-| # | 单元 | 场景 | 材料类型 | 时长 |
+| # | Unit | Setting | Material | Time |
 |:--:|---|---|---|:--:|
-| 01 | [招聘与录用](01-recruitment.md) | 人事 | 招聘启事 + 求职信 | 10 min |
-| 02 | [会议、展会与庆典](02-events.md) | 活动 | 邀请函 + 参展商通知 | 10 min |
-| 03 | [房地产与高端广告](03-real-estate.md) | 房产 | 房源广告 + 专栏 | 10 min |
-| 04 | [银行、账款与公司财务](04-finance.md) | 金融 | 催款函 + 商业新闻 | 11 min |
-| 05 | [通知、施工与客户服务](05-notices.md) | 通知 | 交通公告 + 客服邮件 | 10 min |
-| 06 | [劳资关系与工厂运营](06-labor.md) | 制造 | 新闻报道 + 内部备忘录 | 11 min |
-| 07 | [零售、健身房与广告文案](07-advertising.md) | 零售 | 健身房广告 + 商圈简报 | 10 min |
-| 08 | [城市、社区与园艺](08-community.md) | 社区 | **三篇速读**（特稿+公告+读者来信） | 12 min |
-| 09 | [语法专题：让步、倒装、虚拟与时间逻辑](09-grammar.md) | 语法 | 讲解 + 12 题连做 | 12 min |
-| 10 | [词形家族与易混词清算](10-word-families.md) | 词汇 | 讲解 + 8 题 | 12 min |
+| 01 | [Hiring and Employment](01-recruitment.md) | Personnel | Job posting + cover letter | 10 min |
+| 02 | [Conferences, Trade Shows and Galas](02-events.md) | Events | Invitation + exhibitor notice | 10 min |
+| 03 | [Property and Luxury Advertising](03-real-estate.md) | Real estate | Listing + column | 10 min |
+| 04 | [Banking, Debt and Corporate Finance](04-finance.md) | Finance | Collection letter + business news | 11 min |
+| 05 | [Notices, Construction and Customer Service](05-notices.md) | Notices | Transit advisory + service email | 10 min |
+| 06 | [Labour Relations and Plant Operations](06-labor.md) | Manufacturing | News report + internal memo | 11 min |
+| 07 | [Retail, Gyms and Advertising Copy](07-advertising.md) | Retail | Gym ad + retail bulletin | 10 min |
+| 08 | [Towns, Communities and Gardens](08-community.md) | Community | **Three-passage speed set** | 12 min |
+| 09 | [Grammar: Concession, Inversion, Counterfactuals](09-grammar.md) | Grammar | Notes + 12 items in one run | 12 min |
+| 10 | [Word Families and Confusables](10-word-families.md) | Vocabulary | Notes + 8 items | 12 min |
 
 ---
 
-## 怎么用
+## How to use this
 
-**一个单元 = 一次摸鱼**。被叫走了就关掉，下次从下一个单元接着读，不需要记进度。
+**One unit = one short session.** Close the tab whenever you need to; pick up at the next unit afterwards. There is no progress to track.
 
-每个单元内部的顺序：
+Within each unit, work in this order:
 
-1. **先读英文材料**，不查讲解。读不懂的地方跳过去，别停。
-2. **再读讲解**。讲解是按你卡片里的困惑点写的，不是泛泛的单词表。
-3. **最后做自测**。答案在 `▸ 答案与解析` 折叠块里，点开才显示——**先在心里答完再点**。
+1. **Read the passages first**, without looking at the notes. Skip whatever you do not understand and keep moving.
+2. **Then read the notes.** They are written against the specific points your cards show you losing, not as a generic word list.
+3. **Do the self-test last.** Answers sit inside the `▸ Answer` blocks and stay hidden until you click — **answer in your head before opening them.**
 
-如果一天只有半小时：**做 01、06、09 三个单元**。它们覆盖的考点密度最高。
+If you only have half an hour: **do units 01, 06 and 09.** They carry the highest density of testable points.
 
 ---
 
-## 今天的难点排序（按你的卡片重复标记次数）
+## Today's priority list
 
-你在 Anki 里为下面这些点做了**不止一张卡**，说明它们是真正的硬伤，今天重点攻：
+You made **more than one card** for each of the following, which marks them as genuine weak points rather than passing unknowns:
 
-| 考点 | 所在单元 | 你标记了几次 |
+| Point | Where | Cards |
 |---|---|:--:|
+| `as was planned / as it was planned / as planned` | [Unit 09 §4](09-grammar.md) | 3 |
 | `regard / regarding / with regard to / in this regard` | [Unit 10 §1](10-word-families.md) | 2 |
 | `representative vs. staff vs. stuff` | [Unit 06 §8](06-labor.md) | 2 |
-| `as was planned / as it was planned / as planned` | [Unit 09 §4](09-grammar.md) | 3 |
 | `general / generate / generative / generous` | [Unit 10 §2](10-word-families.md) | 2 |
-| `dispose of + 被动里的 of` | [Unit 02 §5](02-events.md) | 2 |
+| `dispose of` — keeping the *of* in the passive | [Unit 02 §5](02-events.md) | 2 |
 | `prompt / promptly` | [Unit 05 §5](05-notices.md) | 2 |
-| `heritage` | [Unit 08 §1](08-community.md) | 2 |
 | `plant vs. factory` | [Unit 06 §1](06-labor.md) | 2 |
+| `heritage` | [Unit 08 §1](08-community.md) | 2 |
 
 ---
 
-## 读完之后
+## Afterwards
 
-把**还是没记住**的词/考点编号抄在便利贴上（比如 `U03-6, U09-5`），回家后告诉我，我会把它们排进 Day 02 的开头作为回炉部分。
+Note the numbers of whatever still refuses to stick (for example `U03-6, U09-5`) and send them over. They will open Day 02 as a review block.
 
 ---
 
-[← 返回仓库首页](../README.md)
+[← Repository home](../README.md)

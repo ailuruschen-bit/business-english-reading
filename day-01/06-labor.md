@@ -1,8 +1,8 @@
-# Unit 06 · 劳资关系与工厂运营
+# Unit 06 · Labour Relations and Plant Operations
 
-> **本单元针对你的真实遗忘点**：`dispute over wages / walkout / job guarantees` / `plant vs. factory` / `plant operations` / `show up to work` / `malfunctioning` / `stringent tests` / `under more favorable circumstances` / `negotiate / negotiation / negotiator` / `be well received` / `unanimously` / `board of directors` / `working conditions` / `morale` / `improvements in employee morale` / `even more so` / `climb the corporate ladder` / `valued member vs. durable member` / `strong and able sales representatives` / `representative vs. staff vs. stuff` / `counterpart` / `regrouping due to a merger` / `leverages` / `synergy` / `assembly` / `handpicked` / `head (v.)`
+> **Gaps this unit targets**: `dispute over wages / walkout / job guarantees` / `plant vs. factory` / `plant operations` / `show up to work` / `malfunctioning` / `stringent tests` / `under more favorable circumstances` / `negotiate / negotiation / negotiator` / `be well received` / `unanimously` / `board of directors` / `working conditions` / `morale` / `improvements in employee morale` / `even more so` / `climb the corporate ladder` / `valued member vs. durable member` / `strong and able sales representatives` / `representative vs. staff vs. stuff` / `counterpart` / `regrouping due to a merger` / `leverages` / `synergy` / `assembly` / `handpicked` / `head (v.)`
 >
-> **建议用时**：11 分钟
+> **Time**: 11 minutes
 
 ---
 
@@ -45,252 +45,247 @@ I am confident that the **synergy** between our sales teams will become evident 
 
 ---
 
-## 讲解
+## Notes
 
-### 1. `plant` vs. `factory` —— 你卡片里点名的一对
+### 1. `plant` vs. `factory` — the pair your deck names
 
-| 词 | 侧重 | 典型搭配 |
+| Word | Emphasis | Typical collocations |
 |---|---|---|
-| `plant` | **整个生产基地**（厂房+设备+场地），常用于重工业、电力、化工、汽车 | a power plant / the assembly plant / plant operations / plant site |
-| `factory` | **制造车间/工厂**，偏轻工业、消费品 | a shoe factory / the factory floor |
-| `mill` | 磨坊类工厂（钢铁、纸、纺织） | a steel mill / a paper mill |
-| `facility` | 泛指"设施、场所"（最中性、最正式） | a manufacturing facility |
+| `plant` | **A whole production site** (buildings, equipment, grounds); heavy industry, power, chemicals, cars | a power plant, the assembly plant, plant operations, plant site |
+| `factory` | **A manufacturing works**, lighter industry and consumer goods | a shoe factory, the factory floor |
+| `mill` | A processing works (steel, paper, textiles) | a steel mill, a paper mill |
+| `facility` | A neutral, formal catch-all for premises | a manufacturing facility |
 
-考试判断法：**`plant` 更"大"也更正式**，新闻和公司文件里用得多；`factory floor`（车间现场）是固定说法，不说 <s>plant floor</s>（虽然口语有）。
+For the exam: **`plant` is bigger and more formal**, and dominates news writing and company documents. But `factory floor` (the shop floor) is fixed — you would not write <s>plant floor</s> in a report.
 
-⚠️ 同时记住 `plant` 的另外两个义项，托业会在同一篇文章里玩双关：
-- **植物**（名词）｜ **种植/安放**（动词）：`plant a tree`
+⚠️ Keep the other senses of `plant` alive, because a passage may play on them: **a plant** (vegetation), **to plant** (to put in the ground, or to place deliberately).
 
-### 2. 劳资纠纷词群：按事件顺序串
+### 2. The labour-dispute cluster, in event order
 
 ```
-grievance 不满 → dispute over wages 薪资纠纷 → negotiations 谈判
-  → breakdown 破裂 → walkout / strike 罢工 → mediator 调解人
-  → settlement 和解 → agreement 协议 → job guarantees 岗位保障
-  → resume production 复工
+grievance → dispute over wages → negotiations
+  → breakdown → walkout / strike → mediator
+  → settlement → agreement → job guarantees
+  → production resumes
 ```
 
-- **`walkout`**＝**罢工**（字面"走出去"，名词）。动词形式 `walk out`。近义 `strike`（更通用）、`work stoppage`（正式）
-- **`dispute over sth`**＝关于……的纠纷（⚠️ 介词是 **over**，不是 <s>dispute about wages</s>——about 也能用但 over 是标配）
-- **`job guarantees`**＝**岗位保障**（承诺不裁员）
-- **`show up to work`**＝**到岗上班**（`show up`＝露面、出现）。同义：`report to work` / `turn up`
-- **`resume`**＝**恢复、继续**（动词，重音 rɪˈzuːm）⚠️ 和名词 `résumé`（简历，ˈrezəmeɪ）同形不同音，Unit 01 里出现过
+- **`walkout`** = **a strike** (literally, walking out). As a verb, `walk out`. Near-synonyms: `strike`, `work stoppage` (formal).
+- **`dispute over sth`** = a disagreement about something. ⚠️ The standard preposition is **over**, not *about*.
+- **`job guarantees`** = **a commitment not to cut posts**.
+- **`show up to work`** = **to report for work** (`show up` = to appear). Also `report to work`, `turn up`.
+- **`resume`** = **to begin again** (verb, stressed rɪˈzuːm). ⚠️ Spelled like `résumé` (a CV, ˈrezəmeɪ), which appeared in Unit 01 — same letters, different word.
 
-### 3. `negotiate` 家族 —— 一个词根三种词性
+### 3. The `negotiate` family — one root, four forms
 
-| 词形 | 词性 | 用法 |
+| Form | Part of speech | Use |
 |---|---|---|
-| `negotiate` | 动词 | negotiate **with** sb ／ negotiate a contract |
-| `negotiation(s)` | 名词 | 常用**复数**表示"谈判过程"：after several weeks of negotiations |
-| `negotiator` | 名词（人） | the chief negotiator |
-| `negotiable` | 形容词 | **可商量的**：The salary is negotiable. |
+| `negotiate` | verb | negotiate **with** sb / negotiate a contract |
+| `negotiation(s)` | noun | usually **plural** for the process: *after several weeks of negotiations* |
+| `negotiator` | noun (person) | the chief negotiator |
+| `negotiable` | adjective | **open to discussion**: *The salary is negotiable.* |
 
-⚠️ `negotiable` 在金融里还有"可转让的"：`negotiable securities`。
+⚠️ In finance `negotiable` also means transferable: `negotiable securities`.
 
-这种 **动词 / 名词 / 人 / 形容词** 四件套是 Part 5 词形题的固定出法。你卡片里同类的还有：
-`apply–application–applicant` ｜ `consult–consultation–consultant` ｜ `counsel–counseling–counselor`
+This verb / noun / person / adjective set is how Part 5 word-form questions are built. Others in your deck: `apply–application–applicant`, `consult–consultation–consultant`, `counsel–counseling–counselor`.
 
-### 4. `be well received` —— 被动＋副词的固定搭配
+### 4. `be well received` — a fixed passive with an adverb
 
 > The settlement **was well received** on the factory floor.
-> 这项和解方案在车间获得好评。
 
-`be well received`＝**受到好评、被接受**。注意：
-- `well` 是副词修饰过去分词 `received`
-- 不要写成 <s>be good received</s>
-- 反义：`be poorly received` / `be met with criticism`
+`be well received` = **to be favourably regarded**. Points to keep:
+- `well` is an adverb modifying the participle `received`
+- never <s>be good received</s>
+- opposite: `be poorly received`, `be met with criticism`
 
-同款"副词＋过去分词"高频组合（都能直接当形容词用）：
+Other high-frequency adverb + participle combinations, all usable as adjectives:
 
-| 搭配 | 意思 |
+| Combination | Meaning |
 |---|---|
-| `well received` | 广受好评的 |
-| `highly regarded` | 备受推崇的 |
-| `well-advised to do` | 明智的做法是…… |
-| `tailor-made` | 量身定制的 |
-| `excessively wrapped` | 过度包装的 |
-| `handpicked` | 精挑细选的 |
+| `well received` | favourably regarded |
+| `highly regarded` | held in high esteem |
+| `well-advised to do` | would be wise to |
+| `tailor-made` | custom-built |
+| `excessively wrapped` | over-packaged |
+| `handpicked` | individually selected |
 
-**`handpick`**（你卡片里有）＝**亲自挑选**，比 `choose` 更强调"从候选人里慎重选出最合适的"：
+**`handpick`** (in your deck) = **to select personally and carefully**, stronger than *choose*:
 > Ms. Chen was **handpicked** by the general manager to oversee the project.
 
-### 5. `head` 作动词 —— "领导"
+### 5. `head` as a verb — to lead
 
 > Ms. Chen was handpicked to **head** the integration project.
 
-`head + 项目/团队/部门/委员会`＝**担任……的负责人**。
+`head + project / team / department / committee` = **to be in charge of**.
 
-辨析（考试爱放一起）：
+The set that examiners group together:
 
-| 动词 | 侧重 |
+| Verb | Emphasis |
 |---|---|
-| `head` | **担任最高负责人**（职位上的头） |
-| `lead` | 带领、引领（可以没有正式头衔） |
-| `oversee` | **监督、统筹**（不一定天天管，但负总责） |
-| `supervise` | 直接监督（管人，日常） |
-| `manage` | 经营管理（综合） |
+| `head` | **to be the top person** in charge |
+| `lead` | to guide (with or without formal rank) |
+| `oversee` | **to supervise overall**, with ultimate responsibility |
+| `supervise` | to direct people day to day |
+| `manage` | to run, broadly |
 
-Part 7 同义改写：`head the department` ＝ `be in charge of the department` ＝ `serve as the department's director`。
+Part 7 paraphrase: `head the department` = `be in charge of the department` = `serve as the department's director`.
 
-### 6. `morale` vs. `moral` —— 一个 e 的距离
+### 6. `morale` vs. `moral` — one letter apart
 
-这是你卡片里明确标出的易混点：
+Flagged in your deck:
 
-| 词 | 音标 | 词性 | 意思 |
+| Word | Pronunciation | Part of speech | Meaning |
 |---|---|---|---|
-| `morale` | [məˈræl] 重音在**后** | 名词（不可数） | **士气、工作积极性** |
-| `moral` | [ˈmɔːrəl] 重音在**前** | 形容词/名词 | 道德的／寓意 |
+| `morale` | [məˈræl], stress on the **second** syllable | noun (uncountable) | **team spirit, motivation** |
+| `moral` | [ˈmɔːrəl], stress on the **first** | adjective / noun | ethical / the lesson of a story |
 
-固定搭配（整块记）：
-- `employee morale` / `staff morale`＝员工士气
-- `high morale` / `low morale`＝士气高／低落
-- `boost / improve / raise morale`＝提振士气
-- `morale suffered`＝士气受挫
+Collocations to learn whole:
+- `employee morale`, `staff morale`
+- `high morale`, `low morale`
+- `boost / improve / raise morale`
+- `morale suffered`
 
-配套的 **`working conditions`**（你卡片里也有）＝**工作条件/劳动条件**（工时、薪酬、休假、安全、设备）。
-⚠️ 复数 `conditions` 在这里＝"所处的条件、环境"，**不是"状态"**。"工作状态"是 `work status` / `employment status`。
+The companion term **`working conditions`** (also in your deck) = **the terms and environment of work** (hours, pay, leave, safety, equipment).
+⚠️ Plural `conditions` here means *circumstances*, **not a state of being**. "Employment status" is `work status` or `employment status`.
 
-### 7. `even more so` —— 避免重复的小词
+### 7. `even more so` — avoiding repetition
 
 > Working conditions improved across the company, and **even more so** in the manufacturing division.
 
-`so` 在这里**代替前面整句说过的情况**（＝improved），`even more so`＝**（改善的）程度更大**。
+`so` here **stands in for the whole preceding statement** (= *improved*), and `even more so` means **to an even greater degree**.
 
-同款替代型 `so`：
-- `I think so.` / `If so, …`＝若如此
-- `more so than ever`＝比以往更是如此
-- `Is it raining?" "I believe so.`
+The same substituting `so`:
+- `I think so.` / `If so, …`
+- `more so than ever`
+- "Is it raining?" "I believe **so**."
 
-### 8. `representative` / `staff` / `stuff` —— 三个词你标记了两次
+### 8. `representative` / `staff` / `stuff` — flagged twice in your deck
 
-说明这组是硬伤，彻底捋清：
+Twice means it is a real weak point, so here it is in full:
 
-| 词 | 可数性 | 指什么 |
+| Word | Countability | What it means |
 |---|---|---|
-| `representative` | **可数**，复数 representatives | **代表、业务员**（一个具体的人）。缩写 `rep` |
-| `staff` | **集合名词**，通常不可数或作复数看 | **全体员工**（整体概念） |
-| `stuff` | **不可数** | **东西、材料**（跟人毫无关系！） |
+| `representative` | **countable**, plural *representatives* | **an individual agent or salesperson**. Short form: `rep` |
+| `staff` | a collective noun; uncountable, or treated as plural | **the employees as a body** |
+| `stuff` | **uncountable** | **material, things** — nothing to do with people |
 
-正确用法：
-- `three sales **representatives**` ✅（三名销售代表）
-- <s>three staffs</s> ❌ → `three **staff members**` ✅ 或 `three members of staff` ✅
-- `The staff **are** friendly.` ✅（英式，视为复数）／ `The staff **is** friendly.` ✅（美式）
-- `Move this **stuff** off the table.`＝把这些东西挪开
+Correct usage:
+- `three sales **representatives**` ✅
+- <s>three staffs</s> ❌ → `three **staff members**` ✅ or `three members of staff` ✅
+- `The staff **are** friendly.` ✅ (British) / `The staff **is** friendly.` ✅ (American)
+- `Move this **stuff** off the table.` = these things
 
-记忆钩子：**staff 是人，stuff 是物；差一个字母，差一个物种。**
+Hook: **staff are people, stuff is things — one letter, two different species.**
 
-配套形容词（Passage B 用了）：`strong and able sales representatives`。`able`＝有能力的，这里和 `strong` 并列修饰同一个名词，是 Part 5 的平行结构考点。
+The accompanying adjectives in Passage B: `strong and able sales representatives`. `able` = capable; it is coordinated with `strong` to modify the same noun, which is a Part 5 parallel-structure point.
 
-### 9. `counterpart` —— 对口的人
+### 9. `counterpart` — your opposite number
 
 > contact your **counterpart** at Fenwick Canada
 
-`counterpart`＝**对应的人/物**（在另一个组织里职位相同的人，或另一份文件的对应部分）。
+`counterpart` = **the person holding the equivalent position in another organisation**, or the matching part of another document.
 
-> the French foreign minister and his German **counterpart**
-> ＝法国外长和他的德国同行（也就是德国外长）
+> the French foreign minister and his German **counterpart** — i.e. the German foreign minister
 
-Part 7 常考：问 "Who should Ravi contact?" → 答案不是"Ravi 的上司"，而是 **Fenwick 那边和 Ravi 职位相同的人**。
+Part 7 exploits this: "Who should Ravi contact?" → not his own manager, but **the person at Fenwick who holds Ravi's job there**.
 
-### 10. 商业套话：`leverage` / `synergy` / `regroup`
+### 10. Management vocabulary: `leverage` / `synergy` / `regroup`
 
-这三个是商务英语里典型的"管理层用语"，托业的备忘录/年报类文章必出：
+These three are corporate-speak of the kind that fills memos and annual reports, and TOEIC uses them freely:
 
 - **`leverage`**
-  - 名词＝杠杆作用、影响力（金融里＝杠杆率）
-  - **动词**＝**充分利用（现有优势）** ← 这是考点
+  - Noun = influence, or financial gearing
+  - **Verb = to make full use of an existing strength** ← the tested sense
   > The company **leverages** data to improve customer service.
-- **`synergy`** [ˈsɪnərdʒi]＝**协同效应**（1+1>2）。形容词 `synergistic`。合并类新闻的标志词
-- **`regroup`**＝**重组、重新整合**
-  > industries that are **regrouping due to a merger**＝因并购而重组的行业
-- **`merger`**＝合并（动词 `merge`）｜ `acquisition`＝收购 ｜ 合称 `M&A`
+- **`synergy`** [ˈsɪnərdʒi] = **combined effect greater than the sum of the parts**. Adjective `synergistic`. A signature word of merger coverage.
+- **`regroup`** = **to reorganise**
+  > industries that are **regrouping due to a merger**
+- **`merger`** = a combination of companies (verb `merge`) | `acquisition` = a takeover | together, `M&A`
 
 ### 11. `stringent` / `malfunctioning` / `under more favorable circumstances`
 
-- **`stringent`**＝**严格的、严厉的**（规定、标准、测试）
+- **`stringent`** = **strict, rigorous** (of rules, standards, tests)
   > The product must pass a series of **stringent tests**.
-  近义：`strict` / `rigorous` / `demanding`
-- **`malfunctioning`**＝**发生故障的**（mal-＝坏 + function＝运转）。动词 `malfunction`
-  同族前缀 `mal-`：`malpractice`（渎职）/ `malnutrition`（营养不良）
-- **`under more favorable circumstances`**＝**在更有利的情况下**
-  这是一个**虚拟语气的信号短语**。Passage A 的原句：
+  Near-synonyms: `strict`, `rigorous`, `demanding`.
+- **`malfunctioning`** = **faulty, not working properly** (*mal-* = bad + *function*). Verb `malfunction`.
+  Other `mal-` words: `malpractice`, `malnutrition`.
+- **`under more favorable circumstances`** = **if conditions had been better**.
+  This phrase **signals a counterfactual**. The sentence in Passage A:
   > under more favorable circumstances, a settlement **might have been reached** weeks earlier
-  ＝换个更好的情况，本来几周前就能谈成了（**但实际上没有**）。
+  — meaning it was *not* reached weeks earlier.
 
-  你 Anki 里有这一对完整的虚拟条件句：
+  Your deck has the full conditional version of this:
   > If the circumstances **had been** more favorable, John **would have performed** a great deal better.
 
-  **公式（与过去事实相反）**：`If + had + 过去分词, 主语 + would/might/could + have + 过去分词`
+  **The pattern (contrary to past fact)**: `If + had + past participle, subject + would/might/could + have + past participle`
 
-  ⚠️ 这个结构在 Unit 09 的语法专题里还会再练一次，那里会讲**省略 if 的倒装形式**（Had the circumstances been…）。
+  ⚠️ Unit 09 drills this again, including the inverted form without *if* (*Had the circumstances been…*).
 
 ---
 
-## 自测
+## Self-test
 
-**1.** 选词：The company employs over 200 ______ at its Redmond facility.
+**1.** Choose: The company employs over 200 ______ at its Redmond facility.
 (A) staffs  (B) stuffs  (C) staff  (D) staff members
 
-<details><summary>答案与解析</summary>
+<details><summary>Answer and explanation</summary>
 
-**(C) 和 (D) 都对**，(D) 更保险。
+**(C) and (D) are both acceptable**; (D) is the safer choice.
 
-`staff` 作集合名词可直接跟数字：`200 staff` ✅（英式常见）；最稳妥的写法是 `200 staff members` ✅。
-`staffs` ❌（除非指"多个团队"这种罕见用法），`stuffs` ❌（stuff 是"东西"且不可数）。
+`staff` as a collective noun can follow a number directly: `200 staff` ✅ (common in British English). The safest form is `200 staff members` ✅.
+`staffs` ❌ (except in the rare sense of multiple separate teams). `stuffs` ❌ — *stuff* means things and is uncountable.
 
 </details>
 
-**2.** 选词：Employee ______ has improved since the flexible schedule was introduced.
+**2.** Choose: Employee ______ has improved since the flexible schedule was introduced.
 (A) moral  (B) morale  (C) morally  (D) morals
 
-<details><summary>答案与解析</summary>
+<details><summary>Answer and explanation</summary>
 
-**(B) morale**＝士气。
+**(B) morale** = motivation, team spirit. `employee morale` is fixed.
 
-`employee morale` 是固定搭配。(A) `moral` 是形容词"道德的"，(D) `morals` 是"道德观念"——都和"积极性"无关。
+(A) is the adjective "ethical"; (D) means ethical principles. Neither has anything to do with motivation.
 
-发音也别弄错：mo-**RAL**（重音在后）。
+Get the stress right too: mo-**RALE**.
 
 </details>
 
-**3.** 选词：Please contact your ______ at the Vancouver office to coordinate the schedule.
+**3.** Choose: Please contact your ______ at the Vancouver office to coordinate the schedule.
 (A) counterpart  (B) counterfeit  (C) countermeasure  (D) counterclaim
 
-<details><summary>答案与解析</summary>
+<details><summary>Answer and explanation</summary>
 
-**(A) counterpart**＝对口的同级同事。
+**(A) counterpart** = the equivalent person at another site.
 
-干扰项：`counterfeit`＝伪造的／赝品；`countermeasure`＝对策；`counterclaim`＝反诉。
-这四个词共享 `counter-`（相对、对应）前缀，托业喜欢整组摆出来。
-
-</details>
-
-**4.** 根据 Passage A，公司暗示了什么关于八月的报价？
-
-<details><summary>答案与解析</summary>
-
-**八月的报价和最终达成的条件完全相同**——言下之意是：工会白罢工了两周，本可以早点接受。
-
-原文：`the terms were **identical to the ones** offered in August`。
-
-⚠️ `identical **to**`（与……完全相同）——介词是 to，不是 <s>identical with</s>（with 也存在但 to 是标配）。这句话你 Anki 里有，考的就是这个介词。
-
-顺带：`the ones` 指代 `the terms`，避免重复。Part 7 指代题会问 "the ones 指什么"。
+Distractors: `counterfeit` = forged; `countermeasure` = a response to a threat; `counterclaim` = a legal counter-suit. All four share the `counter-` prefix, which is why they are grouped.
 
 </details>
 
-**5.** Passage B 中，Duarte 女士对沟通的核心要求是什么？
+**4.** In Passage A, what does the company imply about its August offer?
 
-<details><summary>答案与解析</summary>
+<details><summary>Answer and explanation</summary>
 
-**说实话：有优势就明说，没定的事也明说没定。**（Where a decision has not been made, say that plainly too.）
+**That it was exactly the same as the terms finally agreed** — the unspoken point being that the two-week walkout achieved nothing.
 
-主旨在于：士气取决于**接下来六周怎么说**，而不是一月份宣布什么。这是典型的"作者意图题"——答案不在某个单词里，在两句话的对比结构里（`far more ... than ...`）。
+Original: `the terms were **identical to the ones** offered in August`.
 
-`far more A than B`＝远比 B 更 A。**看到比较结构，先确定谁是 A 谁是 B**，托业最爱把两者调换做成错误选项。
+⚠️ `identical **to**` — the standard preposition is *to* (*identical with* exists but *to* is what TOEIC tests). This sentence is in your deck precisely for the preposition.
+
+Note also that `the ones` substitutes for `the terms`, avoiding repetition. Part 7 reference questions ask what such a pronoun points to.
+
+</details>
+
+**5.** In Passage B, what is Ms. Duarte's core requirement about communication?
+
+<details><summary>Answer and explanation</summary>
+
+**Be straight with people**: state the combined strengths plainly, and state plainly when a decision has not yet been made.
+
+Her argument is that morale depends **far more on what is said in the next six weeks** than on whatever is announced in January. This is an author's-intent question: the answer is not in any single word but in the contrast built by `far more … than …`.
+
+`far more A than B` = much more A than B. **Whenever you meet a comparison, fix which item is A and which is B** — swapping them is the standard wrong answer in TOEIC.
 
 </details>
 
 ---
 
-[← 上一单元](05-notices.md) ｜ [返回当日目录](README.md) ｜ [下一单元：零售与广告 →](07-advertising.md)
+[← Previous](05-notices.md) | [Day 01 index](README.md) | [Next: Retail and Advertising →](07-advertising.md)

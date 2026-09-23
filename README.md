@@ -1,43 +1,43 @@
-# TOEIC 阅读材料库
+# TOEIC Reading Library
 
-为**只能在浏览器里读 GitHub**的环境准备的托业阅读材料：纯 Markdown，github.com 原生渲染，不需要登录，不需要 JS，不需要音频。
+Reading material for an environment where the only thing available is a browser and github.com: plain Markdown, rendered natively, no login, no JavaScript, no audio.
 
-自测题的答案放在 `<details>` 折叠块里，点开才显示——所以同一页既是阅读材料，也是练习册。
+Self-test answers live inside `<details>` blocks and stay hidden until clicked, so each page works both as reading material and as a workbook.
 
 ---
 
-## 目录
+## Contents
 
-| 日期包 | 内容 | 状态 |
+| Pack | What's in it | Status |
 |---|---|:--:|
-| **[Day 01](day-01/)** | 10 单元 · 19 篇英文材料 · 58 题 · 约 108 分钟 | ✅ |
-| Day 02 | 待生成（含 Day 01 的错题回炉） | ⏳ |
+| **[Day 01](day-01/)** | 10 units · 19 passages · 58 items · about 108 minutes | ✅ |
+| Day 02 | To be generated, opening with a review block from Day 01 | ⏳ |
 
 ---
 
-## 这些材料是怎么来的
+## Where the material comes from
 
-文章和题目都是**新写的原创内容**，但选词不是随便挑的：
+The passages and questions are **newly written**, but the vocabulary in them is not arbitrary:
 
-- **词汇与考点**来自使用者自己 Anki `TOEIC` 牌组里的 **296 张卡**——那是做真题时积累下来的真实遗忘点，不是通用词频表。
-- **场景分布**照搬托业 Part 7 的实际构成：人事、活动、房产、金融、通知、制造、零售、社区。
-- **体裁**覆盖招聘启事、求职信、邀请函、参展通知、房源广告、催款函、商业新闻、交通公告、客服邮件、内部备忘录、专栏、读者来信。
+- **Vocabulary and test points** come from the **296 cards** in the user's own Anki `TOEIC` deck — real gaps collected while working through practice tests, not a generic frequency list.
+- **Settings** mirror the actual composition of TOEIC Part 7: personnel, events, property, finance, notices, manufacturing, retail, community.
+- **Text types** cover job postings, cover letters, invitations, exhibitor notices, property listings, collection letters, business news, transit advisories, service emails, internal memos, columns and letters to the editor.
 
-不收录任何备考书或真题的原文。真题留给在家计时整套做——那是稀缺资源，不该在碎片时间里消耗掉。
-
----
-
-## 使用建议
-
-1. **一个单元 = 一次碎片时间**（10 分钟左右），随时可中断，不需要记进度。
-2. 顺序读：**英文材料 → 讲解 → 自测**。第一遍读英文时不要查讲解。
-3. 每个单元开头都列出了"本单元针对的遗忘点"，可以据此跳读。
-4. 读不完不要紧；读完的单元里如果还有没记住的，抄下编号，会排进下一个日期包的回炉部分。
+No text from any commercial preparation book or past paper is reproduced here. Past papers are best saved for timed full-length practice under exam conditions rather than spent in short fragments of reading time.
 
 ---
 
-## 覆盖范围说明
+## How to use it
 
-这个仓库只做**阅读向**的内容（Part 5 / 6 / 7 所需的词汇、语法、篇章）。
+1. **One unit per sitting** (roughly ten minutes). Stop anywhere; nothing needs to be tracked.
+2. Work in order: **passages → notes → self-test.** Do not consult the notes during the first read.
+3. Each unit opens with the list of points it targets, so units can be skipped or chosen deliberately.
+4. Whatever still fails to stick after a unit is worth noting down; it becomes the review block at the start of the next pack.
 
-听力（Part 1–4，占托业 990 分中的 495 分）**不在这里**，因为目标环境不能放音频。听力需要单独在能戴耳机的时候练。一个可行的衔接方式：先在这里读熟 Part 3/4 的对话套路和高频表达，回家再听同题材音频，理解负担会小很多。
+---
+
+## Scope
+
+This repository covers **reading only** — the vocabulary, grammar and discourse needed for Parts 5, 6 and 7.
+
+Listening (Parts 1–4, which carry 495 of the 990 points) is deliberately absent, because the target environment cannot play audio. It needs separate practice wherever headphones are possible. One way to bridge the two: read the conversational patterns and set phrases of Parts 3 and 4 here first, then listen to comparable audio later, when the comprehension load is already lower.

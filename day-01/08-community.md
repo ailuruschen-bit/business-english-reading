@@ -1,9 +1,9 @@
-# Unit 08 · 城市、社区与园艺（三篇速读）
+# Unit 08 · Towns, Communities and Gardens (three-passage set)
 
-> **本单元针对你的真实遗忘点**：`heritage` / `be inclined to live in the suburbs` / `proximity` / `community character` / `village feel` / `Pet Dislikes of Urban Life` / `streetscape` / `spruce up` / `remain council property` / `compost` / `balanced diet` / `observations` / `stable` / `intimate` / `fragrant / scent` / `a coordinated network of bicycle lanes` / `with the intention of` / `prior approval` / `24 hours' notice` / `constitution` / `proactively` / `dimensions` / `in the foreseeable future` / `calls for`
+> **Gaps this unit targets**: `heritage` / `be inclined to live in the suburbs` / `proximity` / `community character` / `village feel` / `Pet Dislikes of Urban Life` / `streetscape` / `spruce up` / `remain council property` / `compost` / `balanced diet` / `observations` / `stable` / `intimate` / `fragrant / scent` / `a coordinated network of bicycle lanes` / `with the intention of` / `prior approval` / `24 hours' notice` / `constitution` / `proactively` / `dimensions` / `in the foreseeable future` / `calls for`
 >
-> **建议用时**：12 分钟
-> **本单元是速读训练**：三篇材料相互关联，请先用 4 分钟通读全部三篇，再做题。**不要逐词读。**
+> **Time**: 12 minutes
+> **This is a speed-reading unit.** Read all three passages straight through in four minutes before you look at the questions. **Do not read word by word.**
 
 ---
 
@@ -62,220 +62,219 @@ Gordon Achebe, Weir Street
 
 ---
 
-## 讲解
+## Notes
 
-### 1. `heritage` —— 遗产，而且几乎总是"文化/建筑遗产"
+### 1. `heritage` — inherited culture, almost always buildings
 
-`heritage`＝**（文化、历史、建筑）遗产**，不可数。
+`heritage` = **cultural, historical or architectural inheritance**. Uncountable.
 
-- `heritage buildings`＝历史保护建筑
-- `cultural heritage`＝文化遗产
-- `a World Heritage Site`＝世界遗产地
+- `heritage buildings` = protected historic buildings
+- `cultural heritage`
+- `a World Heritage Site`
 
-⚠️ **别和 `inheritance` 混**：`inheritance`＝**继承的财产**（遗产，法律和金钱意义上的）。
-- 爷爷留给你的钱 → `inheritance`
-- 一座老城区 → `heritage`
+⚠️ Do not confuse it with `inheritance` = **property or money inherited from a person**.
+- Money your grandfather left you → `inheritance`
+- An old quarter of a town → `heritage`
 
-### 2. `proximity` —— 邻近
+### 2. `proximity` — nearness
 
-`proximity`＝**接近、邻近**（不可数），正式词。
+`proximity` = **closeness** (uncountable, formal).
 
-- `in close proximity to the station`＝紧邻车站
-- `the proximity of the school`＝学校的近便
+- `in close proximity to the station`
+- `the proximity of the school`
 
-近义替换（Part 7 改写题的靶子）：
+The paraphrase ladder Part 7 uses:
 `proximity to X` ≈ `being close to X` ≈ `within walking distance of X`
 
-形容词 `proximate`（最近的，罕用）｜ 反义 `remoteness`（偏远）。
+Adjective `proximate` (rare) | opposite `remoteness`.
 
-### 3. `be inclined to` —— 倾向于
+### 3. `be inclined to` — to have a tendency towards
 
 > families **are inclined to** move to the suburbs
 
-`be inclined to do sth`＝**倾向于做某事、有意做某事**（语气比 `tend to` 略主观，带"心里偏向"的意味）。
+`be inclined to do sth` = **to be disposed to**, slightly more subjective than *tend to* — a leaning rather than a statistic.
 
-- `I'm inclined to agree.`＝我倾向于同意
-- `be inclined towards + 名词`＝偏好
+- `I'm inclined to agree.`
+- `be inclined towards + noun`
 
-辨析：
+The distinctions:
 
-| 短语 | 语气 |
+| Phrase | Force |
 |---|---|
-| `be inclined to` | 主观倾向（想这么做） |
-| `tend to` | 客观趋势（统计上经常这样） |
-| `be likely to` | 可能性（很可能会） |
-| `be apt to` | 易于（常带负面：apt to forget） |
+| `be inclined to` | a personal leaning |
+| `tend to` | an observed pattern |
+| `be likely to` | probability |
+| `be apt to` | prone to (often negative: *apt to forget*) |
 
-### 4. `community character` / `village feel` / `streetscape` —— 城市规划词汇
+### 4. `community character` / `village feel` / `streetscape` — planning vocabulary
 
-这三个是城市类文章的标志性表达，托业的 Part 7 长文经常取材于此：
+Three signature terms of urban writing, and TOEIC's longer Part 7 passages draw on exactly this register:
 
-- **`community character`**＝**社区特色/社区风貌**（一个地方独有的气质）
-- **`village feel`**＝**小镇氛围**（`feel` 在这里是**名词**："感觉、氛围"）
-  同款名词化用法：`the look and feel of the website`
-- **`streetscape`**＝**街景、街道景观**（street + -scape）
-  `-scape` 后缀家族：`landscape`（风景）/ `cityscape`（城市天际线）/ `seascape`（海景）
+- **`community character`** = **the distinctive quality of a neighbourhood**
+- **`village feel`** = **a small-town atmosphere**. Note that `feel` is a **noun** here: an atmosphere or impression. Same usage in `the look and feel of the website`.
+- **`streetscape`** = **the appearance of a street** (*street* + *-scape*)
+  The `-scape` family: `landscape`, `cityscape`, `seascape`.
 
-### 5. `spruce up` —— 整修、装点
+### 5. `spruce up` — to smarten up
 
 > The streetscape has been **spruced up**.
 
-`spruce up`＝**（把某处）收拾整齐、翻新一番**（可分短语动词：spruce **it** up ✅）。
+`spruce up` = **to tidy or smarten** (separable: *spruce **it** up* ✅).
 
 > The council plans to **spruce up** the town square before the festival.
 
-近义：`tidy up`（收拾）/ `renovate`（翻修，更正式、更大动作）/ `refurbish`（重新装修）。
+Near-synonyms: `tidy up` (lighter), `renovate` (a bigger, more formal job), `refurbish`.
 
-⚠️ `spruce` 本身还是"云杉"，但那和这个短语没关系。
+⚠️ A `spruce` is also a conifer, but the tree and the phrasal verb are unrelated in use.
 
 ### 6. `compost` / `fragrant` / `scent` / `balanced diet`
 
-- **`compost`**＝**堆肥**（不可数）。动词＝把……做成堆肥
-  ⚠️ 别和 `compose`（组成、创作）混——词形接近但无关
-- **`fragrant`** [ˈfreɪɡrənt]＝**芳香的**（形容词）
-  名词 `fragrance`＝香味、香水
-- **`scent`** [sent]＝**气味、香味**（名词，**sc- 的 c 不发音**）
-  - 中性到褒义；动词＝嗅出
-  - 对照：`odour/odor`（气味，常偏负面）/ `aroma`（香气，食物咖啡）/ `stench`（恶臭）
-- **`a balanced diet`**＝**均衡的饮食**
-  ⚠️ `diet` 的两个义项：① **日常饮食**（中性）② 减肥食谱（`be on a diet`）。文中说的是土壤的"营养均衡"，是第一个义项的**比喻用法**
+- **`compost`** = **decayed organic matter used to enrich soil** (uncountable). As a verb, to turn into compost.
+  ⚠️ Nothing to do with `compose` (to make up, to write), despite the similar shape.
+- **`fragrant`** [ˈfreɪɡrənt] = **sweet-smelling** (adjective). Noun `fragrance`.
+- **`scent`** [sent] = **a smell, usually pleasant** — the **c is silent**.
+  - Neutral to positive; as a verb, to detect by smell
+  - Compare: `odour/odor` (a smell, often unpleasant), `aroma` (of food or coffee), `stench` (a foul smell)
+- **`a balanced diet`** = **a nutritionally varied intake**
+  ⚠️ `diet` means ① **what is habitually eaten** (neutral) ② a weight-loss regime (`be on a diet`). Passage C uses the first sense **figuratively**, about what goes into soil.
 
-### 7. `stable` / `intimate` / `observations` —— 三个被低估的多义词
+### 7. `stable` / `intimate` / `observations` — three underestimated words
 
 - **`stable`**
-  - 形容词＝**稳定的**（`a stable outcome` / `a stable economy`）
-  - 名词＝**马厩**（这个义项托业极少考，但要认得）
-  - 名词 `stability` ｜ 动词 `stabilize`
+  - Adjective = **steady, unchanging** (`a stable outcome`, `a stable economy`)
+  - Noun = a building for horses (rarely tested, but recognise it)
+  - Noun `stability` | verb `stabilize`
 - **`intimate`**
-  - 形容词 [ˈɪntɪmət]＝① 亲密的 ② **（场所）温馨私密的、小而舒适的**
-  - `an intimate restaurant`＝一家小而温馨的餐厅 ← 这是托业/旅游文章里的高频义项
-  - 动词 [ˈɪntɪmeɪt]＝暗示（罕见）
+  - Adjective [ˈɪntɪmət] = ① close, personal ② **(of a place) small and welcoming**
+  - `an intimate restaurant` = a small, cosy restaurant ← the sense TOEIC and travel writing use
+  - Verb [ˈɪntɪmeɪt] = to hint (rare)
 - **`observation`**
-  - ＝① 观察 ② **见解、评论**（可数，常复数）
+  - = ① the act of watching ② **a remark or conclusion** (countable, often plural)
   > Dr. Nasser's **observations** are supported by what has happened in Elmsworth.
-  > ＝纳赛尔博士的**这些看法**得到了……的印证
-  - Passage C 里 `my objection is not to the lanes but to the observations drawn from them`＝我反对的不是车道，而是**从中得出的结论**
+  > = his **findings or comments**
+  - In Passage C: `my objection is not to the lanes but to the observations drawn from them` = to the **conclusions** drawn from them
 
-  ⚠️ 这个"见解/结论"的义项比"观察"更常考，因为它能出推断题。
+  ⚠️ This "remark, conclusion" sense is tested more often than "watching," because it supports inference questions.
 
-### 8. `with the intention of` / `calls for` —— 两个表"目的/需要"的结构
+### 8. `with the intention of` / `calls for` — purpose and requirement
 
-- **`with the intention of + doing`**＝**意图是、出于……的目的**
+- **`with the intention of + -ing`** = **for the purpose of**
   > built **with the intention of** reducing traffic
-  近义：`with a view to doing` / `in order to do` / `aimed at doing`
-  ⚠️ `of` 后面必须跟**动名词**，不能跟不定式：<s>with the intention of to reduce</s> ❌
+  Near-synonyms: `with a view to doing`, `in order to do`, `aimed at doing`
+  ⚠️ `of` must be followed by a **gerund**: <s>with the intention of to reduce</s> ❌
 
-- **`call for`** 有两个高频义项，你卡片里两条都有：
-  | 用法 | 意思 | 例 |
+- **`call for`** has two high-frequency senses, and your deck holds a card for each:
+
+  | Pattern | Meaning | Example |
   |---|---|---|
-  | `sth calls for sth` | **需要、要求** | The safety issue **calls for** immediate action. |
-  | `sth calls for sth` | **值得（庆祝）** | This achievement **calls for** a celebration! |
-  | `a plan calls for sth` | （计划）**规定、要求有** | The plan **calls for** a network of bike lanes. |
+  | `sth calls for sth` | **to require, to demand** | The safety issue **calls for** immediate action. |
+  | `sth calls for sth` | **to warrant, to deserve** | This achievement **calls for** a celebration! |
+  | `a plan calls for sth` | **to provide for, to specify** | The plan **calls for** a network of bike lanes. |
 
-  三个义项其实是同一个核心：**"呼唤出某物"→ 需要它/值得它/规定要有它。**
+  All three come from one core idea: **to call something forth** — to need it, to deserve it, or to stipulate it.
 
 ### 9. `prior approval` / `24 hours' notice` / `constitution`
 
-- **`prior approval`**＝**事先批准**。`prior`＝在先的
-  - `prior to + 名词`＝在……之前（＝before，但更正式）
-  - `prior experience`＝相关的既往经验
-- **`24 hours' notice`**＝**提前 24 小时的通知**
-  ⚠️ **所有格撇号**：hours 是复数，撇号在 s 后面 → `hours'`
-  - `a week's notice`（单数，撇号在 s 前）/ `two weeks' notice`（复数，撇号在 s 后）
-  - 对照 Unit 07 的 `a thirty-second commercial`（复合形容词用单数、无撇号）——**两条规则靠"有没有撇号"区分**
-  - 常见动词搭配：`give notice` / `provide notice` / `at short notice`（临时通知）
-- **`constitution`**＝**章程**（组织的根本规则），不只是"宪法"
+- **`prior approval`** = **advance authorisation**. `prior` = earlier, preceding.
+  - `prior to + noun` = before (formal)
+  - `prior experience` = previous relevant experience
+- **`24 hours' notice`** = **notification 24 hours in advance**
+  ⚠️ **The possessive apostrophe**: *hours* is plural, so the apostrophe follows the s → `hours'`
+  - `a week's notice` (singular, apostrophe before the s) / `two weeks' notice` (plural, after)
+  - Compare Unit 07's `a thirty-second commercial` (compound adjective: singular, no apostrophe). **Tell the two rules apart by the apostrophe.**
+  - Common verbs: `give notice`, `provide notice`, `at short notice`
+- **`constitution`** = **the governing rules of an organisation**, not only a nation's
   > The Association's **constitution** requires that any change be approved by a majority vote.
-  ⚠️ **`require that + 主语 + 动词原形`**（虚拟语气，should 省略）：
-  `requires that any change **be** approved` ✅（不是 `is approved`）
-  同类动词：`require / request / suggest / recommend / insist / demand / propose` + that + 主语 + **动词原形**
+  ⚠️ **`require that + subject + base verb`** (subjunctive, with *should* omitted):
+  `requires that any change **be** approved` ✅ — not *is approved*.
+  The same applies after `require, request, suggest, recommend, insist, demand, propose`.
 
-  这个语法点在 Unit 09 还会专门练。
+  Unit 09 drills this pattern again.
 
 ### 10. `proactively` / `in the foreseeable future` / `dimensions`
 
-- **`proactively`**＝**主动地、防患未然地**（pro-＝向前 + active）
+- **`proactively`** = **by acting in advance rather than reacting** (*pro-* = forward + *active*)
   > began **proactively** protecting its heritage buildings rather than waiting for…
-  反义：`reactively`（被动应对）。形容词 `proactive` 是商务英语高频褒义词
-- **`in the foreseeable future`**＝**在可预见的未来**（固定短语）
+  Opposite `reactively`. The adjective `proactive` is a staple of positive business writing.
+- **`in the foreseeable future`** = **in the future that can be anticipated** (a fixed phrase)
   > We hope to work with your company **in the foreseeable future**.
-  ⚠️ `foreseeable`＝可预见的（fore 预先 + see 看 + able）
-- **`dimensions`**＝**尺寸、规格**（复数）
+  ⚠️ `foreseeable` = able to be foreseen (*fore* + *see* + *able*)
+- **`dimensions`** = **measurements** (plural)
   > Plot **dimensions** are 3 m × 8 m.
-  单数 `dimension` 还可指"维度、方面"：`a new dimension to the problem`
+  Singular `dimension` can also mean an aspect: `a new dimension to the problem`.
 
 ---
 
-## 自测（速读题：请勿回看原文，凭第一遍印象作答，再回查）
+## Self-test (speed-reading: answer from your first pass, then verify)
 
-**1.** 根据 Passage A，受访者列出的三大城市生活不满，**不包括**下列哪一项？
-(A) 噪音  (B) 住房成本  (C) 通勤时间  (D) 缺少绿地
+**1.** According to Passage A, which was **not** among the three leading complaints?
+(A) Noise  (B) Housing costs  (C) Commuting times  (D) Lack of green space
 
-<details><summary>答案与解析</summary>
+<details><summary>Answer and explanation</summary>
 
-**(C) 通勤时间。**
+**(C) Commuting times.**
 
-原文明说三大不满是 noise / cost of housing / absence of green space，并特意指出"很少有人提到通勤时间，几乎没人提到安全"。
+The three named are noise, cost of housing and absence of green space; the article then points out that very few mentioned commuting and almost none mentioned safety.
 
-**这是 Part 7 最经典的 NOT 题结构**：文章先正面列举，再补一句"什么没被提到"。看到 `What is more interesting is what they did **not** say` 这种转折，就该知道下面一句是出题点。
-
-</details>
-
-**2.** Dr. Nasser 认为人们真正想要的是什么？
-(A) 更高的安全性  (B) 步行可达的便利（proximity）  (C) 更低的房价  (D) 更大的房子
-
-<details><summary>答案与解析</summary>
-
-**(B)**。原文："What they are describing is **proximity** — being able to walk to the things you use."
-
-注意他还补了一个反直觉的观察：这其实是**好城市**的属性，不是郊区的属性；受欢迎的郊区是那些"表现得像小镇"的郊区。Part 7 推断题可能问："What does Dr. Nasser imply about suburbs?" → 答案是 "The ones people like resemble towns."
+**This is the classic Part 7 NOT structure**: state a list, then add a sentence about what was left out. The signal is the pivot `What is more interesting is what they did **not** say` — whatever follows it will be tested.
 
 </details>
 
-**3.** 三篇材料交叉题：Passage C 的作者对 Passage B 中哪一条规定表示赞同？
-(A) 第 1 条（地块尺寸）  (B) 第 2 条（器材归议会所有）  (C) 第 4 条（堆肥规定）  (D) 第 5 条（须经推荐）
+**2.** What does Dr. Nasser say people actually want?
+(A) Greater safety  (B) Walkable nearness (proximity)  (C) Cheaper housing  (D) Larger homes
 
-<details><summary>答案与解析</summary>
+<details><summary>Answer and explanation</summary>
 
-**(C) 第 4 条堆肥规定。**
+**(B)**. "What they are describing is **proximity** — being able to walk to the things you use."
 
-Passage C：`The **compost** rule in the Council's new conditions is sensible … On that point the Council deserves credit.`
-
-**这是 Part 7 双篇/三篇的核心题型**——答案必须跨文章拼接：C 篇说"堆肥规则"，但"堆肥规则是第几条、具体内容是什么"只有 B 篇才有。
-
-做这类题的方法：**读第二、三篇时，每遇到一个指向前篇的词（"the compost rule"、"Ms. Enriquez's article"），立刻在脑子里标记"这里要跳回去"**，不要等做题时才找。
+He adds a counter-intuitive point: this is a property of good cities rather than of suburbs, and the suburbs people like are the ones that behave like towns. An inference question might ask "What does Dr. Nasser imply about suburbs?" → *The ones people like resemble towns.*
 
 </details>
 
-**4.** Passage C 的作者对自行车道的主要不满是什么？
+**3.** Cross-passage: which condition in Passage B does the writer of Passage C approve of?
+(A) Condition 1 (plot dimensions)  (B) Condition 2 (Council property)  (C) Condition 4 (compost)  (D) Condition 5 (referral)
 
-<details><summary>答案与解析</summary>
+<details><summary>Answer and explanation</summary>
 
-**他反对的不是车道本身，而是从车道效果中得出的结论。**
+**(C) Condition 4, the compost rule.**
 
-原文：`My objection is not to the lanes but to the **observations** drawn from them.` 他明确说自己支持骑行（`I am in favour of cycling`）。
+Passage C: `The **compost** rule in the Council's new conditions is sensible … On that point the Council deserves credit.`
 
-他的论据有两条：① 车道占掉了三十个停车位，而高街车流并没减少；② 文章说的"三家重开的店"里，有两家其实是同一家店换了名字。
+**This is the core multi-passage question type**: the answer must be assembled across texts. Passage C names "the compost rule"; only Passage B tells you which condition that is and what it says.
 
-最后一句是全文的论点句：**`A stable outcome is not the same as a successful one.`**（稳定的结果不等于成功的结果。）
-
-⚠️ 这题是"作者态度题"。托业里作者态度**很少是纯粹的反对或赞成**，通常是"支持大方向、质疑具体做法"。看到 `My objection is not to X but to Y` 这种结构，答案一定落在 Y 上。
+The technique: **while reading the second and third texts, flag every backward reference ("the compost rule," "Ms. Enriquez's article") as a place you will need to jump back to** — rather than hunting for them after you see the question.
 
 </details>
 
-**5.** 语法题：Passage B 最后一句 "The Association's constitution requires that any change to these conditions ______ approved by a majority vote."
+**4.** What is the letter writer's main objection to the bicycle lanes?
+
+<details><summary>Answer and explanation</summary>
+
+**He objects not to the lanes themselves but to the conclusions drawn from them.**
+
+Original: `My objection is not to the lanes but to the **observations** drawn from them.` He states plainly that he supports cycling (`I am in favour of cycling`).
+
+His two pieces of evidence: ① the lanes replaced thirty parking spaces while high-street traffic did not fall; ② two of the three "reopened" shops are the same business renamed.
+
+His thesis is the final line: **`A stable outcome is not the same as a successful one.`**
+
+⚠️ This is an author's-attitude question. In TOEIC, attitude is **rarely pure agreement or pure opposition** — it is usually "supports the aim, questions the execution." When you see `My objection is not to X but to Y`, the answer sits on Y.
+
+</details>
+
+**5.** Grammar: Passage B's last sentence — "The Association's constitution requires that any change to these conditions ______ approved by a majority vote."
 (A) is  (B) be  (C) will be  (D) being
 
-<details><summary>答案与解析</summary>
+<details><summary>Answer and explanation</summary>
 
-**(B) be**。
+**(B) be**.
 
-`require that` 后面的从句用**虚拟语气**：`that + 主语 + (should) + 动词原形`，should 通常省略，所以是 `be approved`，与主语单复数、时态都无关。
+After `require that`, the clause takes the **subjunctive**: `that + subject + (should) + base verb`, with *should* normally omitted. So `be approved`, regardless of the subject's number or the tense of the main verb.
 
-同类动词记成一串："**一坚持（insist）二命令（order, demand）三建议（suggest, advise, propose, recommend）四要求（request, require, ask, desire）**"。
+Learn the trigger verbs as one set: **insist, order, demand, suggest, advise, propose, recommend, request, require, ask**.
 
 </details>
 
 ---
 
-[← 上一单元](07-advertising.md) ｜ [返回当日目录](README.md) ｜ [下一单元：语法专题 →](09-grammar.md)
+[← Previous](07-advertising.md) | [Day 01 index](README.md) | [Next: Grammar →](09-grammar.md)

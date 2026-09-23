@@ -1,13 +1,13 @@
-# Unit 10 · 词形家族与易混词清算
+# Unit 10 · Word Families and Confusables
 
-> **本单元针对你的真实遗忘点**：`regard / regarding / with regard to / in this regard` / `general / generate / generative / generous` / `interest / interesting / interested / of interest` / `estimate and estate` / `appoint and appointment` / `make an appointment vs. reserve a room` / `erectable / seasonable / permissible` / `advances in technology vs. career advancement` / `valued member vs. durable member` / `climb the corporate ladder` / `dimension / compassion` / `courteous / friendly` / `counselor vs. consultant` / `booklet vs. brochure / pamphlet` / `accommodate / accommodations` / `withhold` / `mimic` / `a function` / `anyhow` / `significant other` / `address someone as` / `Ms.` / `the US / the USA / America` / `hand over a check`
+> **Gaps this unit targets**: `regard / regarding / with regard to / in this regard` / `general / generate / generative / generous` / `interest / interesting / interested / of interest` / `estimate and estate` / `appoint and appointment` / `make an appointment vs. reserve a room` / `erectable / seasonable / permissible` / `advances in technology vs. career advancement` / `valued member vs. durable member` / `climb the corporate ladder` / `dimension / compassion` / `courteous / friendly` / `counselor vs. consultant` / `booklet vs. brochure / pamphlet` / `accommodate / accommodations` / `withhold` / `mimic` / `a function` / `anyhow` / `significant other` / `address someone as` / `Ms.` / `the US / the USA / America` / `hand over a check`
 >
-> **建议用时**：12 分钟
-> 本单元是**清算单元**——把一天里所有"长得像但不是一回事"的词一次性厘清。
+> **Time**: 12 minutes
+> A **clean-up unit**: every "looks alike, isn't alike" pair from today, settled in one pass.
 
 ---
 
-## Passage — 把本单元的词塞进一封信
+## Passage — every item in this unit, packed into one letter
 
 > Dear Dr. Okonkwo,
 >
@@ -26,67 +26,67 @@
 
 ---
 
-## 讲解
+## Notes
 
-### 1. `regard` 家族 —— 一个画面串起四个用法
+### 1. The `regard` family — one image holds all four
 
-你 Anki 里为这组做了两张卡，说明它值得单独立一节。**核心画面：regard ＝ 把目光/注意力投向某处。**
+You built two cards for this group, which earns it its own section. **The core image: `regard` = to turn one's gaze or attention towards something.**
 
-| 形式 | 词性 | 意思 | 例 |
+| Form | Part of speech | Meaning | Example |
 |---|---|---|---|
-| `regard A as B` | 动词 | 把 A **视为** B | We **regard** the plan **as** practical. |
-| `regarding X` | **介词** | **关于** X | **Regarding** your request, … |
-| `with regard to X` | 介词短语 | **关于** X（更正式） | **With regard to** your enquiry, … |
-| `in this regard` | 副词短语 | **在这一点上、就此而言** | **In this regard**, please note… |
-| `highly regarded` | 形容词化 | **备受推崇的** | a **highly regarded** designer |
-| `regards` | 名词（复数） | **问候**（信尾） | Kind **regards**, |
+| `regard A as B` | verb | to **consider** A to be B | We **regard** the plan **as** practical. |
+| `regarding X` | **preposition** | **concerning** X | **Regarding** your request, … |
+| `with regard to X` | prepositional phrase | **concerning** X (more formal) | **With regard to** your enquiry, … |
+| `in this regard` | adverbial | **on this point** | **In this regard**, please note… |
+| `highly regarded` | participial adjective | **well thought of** | a **highly regarded** designer |
+| `regards` | noun, plural | **greetings** (letter closing) | Kind **regards**, |
 
-⚠️ **最高频的错误**：
+⚠️ **The errors that matter most**:
 - <s>regarding **to** your request</s> ❌ → `regarding your request` ✅
-  （`regarding` 本身就是介词，不能再加 to）
-- 但 `with regard **to**` 里的 to **必须有** ✅
-- 另外：`with regard to`（单数 regard）✅ / <s>with regards to</s> ❌ —— 加 s 的只用在信尾问候
+  (`regarding` is itself a preposition; it cannot take another one.)
+- But `with regard **to**` **must** keep its *to* ✅
+- And `with regard to` takes the **singular** ✅, never <s>with regards to</s> — the plural belongs only to the sign-off.
 
-**同义替换梯队**（Part 7 改写题在这几个之间换）：
-`regarding` ＝ `concerning` ＝ `about` ＝ `with regard to` ＝ `as regards` ＝ `in reference to` ＝ `re:`（备忘录抬头那个 Re: 就是这个）
+**The paraphrase ladder** (what Part 7 swaps among):
+`regarding` = `concerning` = `about` = `with regard to` = `as regards` = `in reference to` = `re:` (the *Re:* line on a memo is this word).
 
-### 2. `general / generate / generative / generous` —— 同词根，四条路
+### 2. `general / generate / generative / generous` — one root, four roads
 
-你卡片里标了两次（`general vs generate vs generative` 和 `general vs generous`），一次讲清。
+Your deck flags this twice (`general vs generate vs generative` and `general vs generous`), so here is the whole family.
 
-共同词根 **`gen-`＝产生、种类**。
+The shared root is **`gen-` = to produce, or a kind**.
 
-| 词 | 词性 | 意思 | 记忆 |
+| Word | Part of speech | Meaning | Hook |
 |---|---|---|---|
-| `general` | 形容词 | **总体的、普遍的、非专门的** | 涵盖所有"种类"→ 总的 |
-| `general` | 名词 | 将军 | 统管全军的人 |
-| `generate` | 动词 | **产生、生成** | gen + -ate（动词后缀） |
-| `generative` | 形容词 | **有生成能力的** | generative AI＝生成式 AI |
-| `generous` | 形容词 | **慷慨的、丰厚的** | 出身好的人→ 大方（词源）|
-| `generic` | 形容词 | 通用的、无品牌的 | generic drugs＝仿制药 |
+| `general` | adjective | **overall, widespread, non-specialised** | covering all kinds → general |
+| `general` | noun | a military general | the officer over the whole army |
+| `generate` | verb | **to produce** | *gen* + *-ate* (verb suffix) |
+| `generative` | adjective | **able to produce** | generative AI |
+| `generous` | adjective | **liberal, ample** | well-born → open-handed (etymologically) |
+| `generic` | adjective | unbranded, general-purpose | generic drugs |
 
-高频搭配：
-- `general manager`＝**总经理**（GM）｜ `general information`＝一般信息 ｜ `in general`＝总的来说
-- `generate revenue / electricity / interest`＝创造收入／发电／引起兴趣
-- `generous prizes`＝丰厚奖品 ｜ `a generous offer`＝优厚的提议
+Frequent collocations:
+- `general manager` (GM) | `general information` | `in general`
+- `generate revenue / electricity / interest`
+- `generous prizes` | `a generous offer`
 
-⚠️ 你卡片里的提醒很准：**"生成式 AI"是 `generative AI`，不是 <s>general AI</s>**（后者指"通用人工智能"AGI，完全不同的概念）。
+⚠️ Your card makes a good point: the term is **`generative AI`**, not <s>general AI</s> — the latter (AGI) refers to something else entirely.
 
-### 3. `interest` 家族 —— 四个形式 + 一个短语
+### 3. The `interest` family — four forms and a phrase
 
-| 形式 | 用法 |
+| Form | Use |
 |---|---|
-| `interest`（名词） | ① 兴趣 ② **利息** ③ 权益 — `interest rates`＝利率 |
-| `interesting` | **令人感兴趣的**（修饰**事物**） |
-| `interested` | **感兴趣的**（修饰**人**）— `be interested **in**` |
-| `of interest` | **值得关注的**（＝interesting，但更正式，作表语或后置定语） |
+| `interest` (noun) | ① curiosity ② **interest on money** ③ a stake — `interest rates` |
+| `interesting` | **causing interest** (describes the **thing**) |
+| `interested` | **feeling interest** (describes the **person**) — `be interested **in**` |
+| `of interest` | **worth attention** (= interesting, but formal; used predicatively or postpositively) |
 
 > You may find the section on materials science **of interest**.
-> ＝你可能会对材料科学那一节感兴趣。（＝ find it interesting）
+> = you may find it interesting
 
-`of + 抽象名词` ＝ 形容词，这是一个**成组的语法现象**，托业常考：
+`of + abstract noun` = an adjective. This is a **systematic pattern**, and TOEIC tests it:
 
-| 短语 | ＝ 形容词 |
+| Phrase | = adjective |
 |---|---|
 | `of interest` | interesting |
 | `of importance` | important |
@@ -94,65 +94,66 @@
 | `of use` | useful |
 | `of help` | helpful |
 
-你卡片里的 `anything of interest`＝任何值得关注的东西 —— 这是 `of interest` 作**后置定语**修饰复合不定代词（anything/something/nothing 后面的修饰语必须后置）。
+Your card `anything of interest` shows `of interest` **postmodifying an indefinite pronoun** — modifiers always follow *anything / something / nothing*.
 
-⚠️ `-ing` / `-ed` 形容词的方向永远别搞反：
-- `The meeting was **boring**.`（会议无聊）vs `I was **bored**.`（我觉得无聊）
-- 同类：exciting/excited、confusing/confused、satisfying/satisfied、disappointing/disappointed
+⚠️ Never reverse the `-ing` / `-ed` adjectives:
+- `The meeting was **boring**.` vs `I was **bored**.`
+- Likewise exciting/excited, confusing/confused, satisfying/satisfied, disappointing/disappointed.
 
-### 4. `estimate` vs. `estate` —— 只差两个字母
+### 4. `estimate` vs. `estate` — two letters apart
 
-| 词 | 音 | 意思 |
+| Word | Pronunciation | Meaning |
 |---|---|---|
-| `estimate` | 名词 [ˈestɪmət] / 动词 [ˈestɪmeɪt] | **估计、估价（单）** |
-| `estate` | [ɪˈsteɪt] | **地产、庄园；遗产** |
+| `estimate` | noun [ˈestɪmət] / verb [ˈestɪmeɪt] | **an approximation; a quotation** |
+| `estate` | [ɪˈsteɪt] | **land and property; a deceased person's assets** |
 
-> The cost is **estimated at** $50,000.（⚠️ 介词是 **at**）
-> **real estate**＝房地产 ｜ `an estate agent`＝房产中介（英式）｜ `a housing estate`＝住宅区（英式）
+> The cost is **estimated at** $50,000. (⚠️ the preposition is **at**)
+> `real estate` | `an estate agent` (British) | `a housing estate` (British)
 
-名词 `estimate` 在商务里特指**报价单**：`Could you send us an estimate?`＝能给份估价吗？
-近义：`quote / quotation`（正式报价，比 estimate 更有约束力）。
+As a noun in commerce, `estimate` specifically means **a price quotation**: *Could you send us an estimate?*
+Near-synonym: `quote / quotation` (a firmer, more binding figure).
 
-⚠️ 注意 `estimate` 作名词时**重音在前、末尾读 /mət/**；作动词时**末尾读 /meɪt/**。同款变音词：`separate` / `moderate` / `deliberate` / `graduate`。
+⚠️ Note the stress shift: as a noun the ending is /mət/; as a verb it is /meɪt/. The same alternation appears in `separate`, `moderate`, `deliberate`, `graduate`.
 
-### 5. `appoint` / `appointment` / `reserve` —— 约人还是订东西
+### 5. `appoint` / `appointment` / `reserve` — booking people versus booking things
 
-你卡片里专门标了 `make an appointment` vs `reserve a room`，这是中文母语者的典型痛点，因为中文都说"预约/预订"。
+Your deck flags `make an appointment` against `reserve a room`. This trips up speakers of Chinese and Japanese alike, because one word in each language covers both.
 
-| 英文 | 约的是 | 例 |
+| English | What is being booked | Example |
 |---|---|---|
-| `make an appointment (with sb)` | **人**（医生、经理、理发师） | I made an appointment **with** the dentist. |
-| `reserve / book` | **物/位**（房间、座位、桌子、机票） | I reserved a room / booked a table. |
-| `schedule` | **事件**（会议、通话） | We scheduled a call for Friday. |
+| `make an appointment (with sb)` | **a person** (doctor, manager, hairdresser) | I made an appointment **with** the dentist. |
+| `reserve / book` | **a thing or a place** (room, seat, table, flight) | I reserved a room / booked a table. |
+| `schedule` | **an event** (a meeting, a call) | We scheduled a call for Friday. |
 
-所以：
+Therefore:
 - <s>reserve an appointment</s> ❌ / <s>make a reservation with the dentist</s> ❌
-- `Viewings strictly **by appointment**.`＝**仅限预约参观**（Unit 03 的房产广告用过）
+- `Viewings strictly **by appointment**.` = **by prior arrangement only** (the property ad in Unit 03)
 
-**`appoint` 的另一条线**：
-- `appoint sb (as) + 职位`＝**任命**某人担任……
+**The other line of `appoint`**:
+- `appoint sb (as) + position` = **to name someone to a post**
   > The board **appointed** her **as** chief financial officer.
-- `appointment` 因此也有"**任命**"的义项：`the appointment of a new director`
+- So `appointment` also means **a nomination to a post**: *the appointment of a new director*
 
-⚠️ 一个词两个义项：**跟时间走＝约见；跟职位走＝任命。**
+⚠️ One word, two senses: **next to a time it is a meeting; next to a job title it is an appointment to office.**
 
-### 6. `-able` / `-ible` / `-ous` —— 你卡片里那组"生造词"
+### 6. `-able` / `-ible` / `-ous` — the invented-word trap in your deck
 
-你标记的 `erectable / seasonable / permissible` 是托业最坏的一类题：**四个选项都是"看起来合法"的派生词，只有一个真正存在或符合语境。**
+Your card `erectable / seasonable / permissible` points at TOEIC's nastiest question type: **four plausible-looking derivatives, only one of which actually exists or fits.**
 
-**后缀含义**：
-- `-able / -ible`＝**能被……的**（被动）｜ `-ive`＝有……倾向的 ｜ `-ous`＝充满……的
+**What the suffixes do**:
+- `-able / -ible` = **capable of being …** (passive) | `-ive` = tending to | `-ous` = full of
 
-| 词 | 存在吗 | 意思 |
+| Word | Real? | Meaning |
 |---|---|---|
-| `permissible` | ✅ | **被允许的**（permit → permissible，不是 <s>permitable</s>） |
-| `seasonable` | ✅ 但罕见 | **合时令的**（天气应季）— ⚠️ 与 `seasonal`（季节性的）不同！ |
-| `erectable` | ⚠️ 技术上可构造，但不是常用词 | 真正常用的是 `erect`（动词/形容词） |
+| `permissible` | ✅ | **allowed** (permit → permissible, never <s>permitable</s>) |
+| `seasonable` | ✅ but rare | **appropriate to the season** (of weather) — ⚠️ not `seasonal`! |
+| `erectable` | ⚠️ formable but not idiomatic | the usual word is `erect` (verb or adjective) |
 
-**应试策略**：遇到派生词选择题，**不要靠"哪个看起来对"，靠"哪个我确实见过"**。没见过的形式八成是错误选项。
+**Exam strategy**: on derivative questions, **do not choose what looks plausible — choose what you have actually seen**. A form you have never encountered is probably the distractor.
 
-常见的"不规则"派生（背下来就是分）：
-| 动词 | 形容词 |
+The irregular derivations worth memorising outright:
+
+| Verb | Adjective |
 |---|---|
 | permit | permis**sible** |
 | respond | respons**ible** |
@@ -162,264 +163,263 @@
 | prefer | prefer**able** |
 | advise | advis**able** |
 
-⚠️ `seasonal`（季节性的，a seasonal job）vs `seasonable`（应季的天气）vs `seasoned`（**经验老到的**，a seasoned negotiator）—— 三个都考。
+⚠️ `seasonal` (occurring in a season: *a seasonal job*) vs `seasonable` (suitable to the season: weather) vs `seasoned` (**experienced**: *a seasoned negotiator*) — all three are tested.
 
-### 7. `advances` vs. `advancement` —— 一个 -ment 的差别
+### 7. `advances` vs. `advancement` — what `-ment` changes
 
-你卡片里点名的一对：
+Another pair your deck names:
 
-| 词 | 意思 | 典型搭配 |
+| Word | Meaning | Collocations |
 |---|---|---|
-| `advances`（复数） | **（技术、科学的）进展、突破** | **advances in** technology / medicine |
-| `advancement` | **（个人职位的）晋升、提升** | career **advancement** / opportunities for advancement |
-| `advance`（名词，单数） | ① 预付款 ② 前进 | `in advance`＝提前 |
+| `advances` (plural) | **breakthroughs in a field** | **advances in** technology / medicine |
+| `advancement` | **promotion, professional progress** | career **advancement**, opportunities for advancement |
+| `advance` (singular noun) | ① a prepayment ② a forward movement | `in advance` = beforehand |
 
-> **advances in** technology＝技术进步
-> **career advancement**＝职业晋升
+> **advances in** technology = technological progress
+> **career advancement** = moving up professionally
 
-记忆钩子：**`-ment` 是抽象过程 → 一个人往上爬的"过程"；复数 `advances` 是一项项具体成果。**
+Hook: **`-ment` names a process — one person's climb; plural `advances` names discrete achievements.**
 
-配套：**`climb the corporate ladder`**＝**在公司里步步高升**（corporate ladder＝企业阶梯）。
-⚠️ 你卡片里的 `corporate ladder vs corporate engineer` —— 后者不是固定搭配，是干扰项。
+The companion idiom: **`climb the corporate ladder`** = **to rise through the ranks of a company**.
+⚠️ Your card pairs `corporate ladder` with `corporate engineer` — the latter is not an idiom; it is the distractor.
 
-### 8. `valued` vs. `durable` —— 修饰人还是修饰物
+### 8. `valued` vs. `durable` — modifying people or things
 
 > She is a **valued member** of the Institute.
 
-| 词 | 修饰对象 | 意思 |
+| Word | Modifies | Meaning |
 |---|---|---|
-| `valued` | **人、关系** | **受重视的、宝贵的** — a valued member / a valued customer |
-| `valuable` | 物、建议 | 有价值的 — valuable advice / valuable equipment |
-| `durable` | **物** | **耐用的** — durable goods（耐用消费品） |
+| `valued` | **people, relationships** | **highly regarded** — a valued member, a valued customer |
+| `valuable` | things, advice | worth a lot — valuable advice, valuable equipment |
+| `durable` | **things** | **long-lasting** — durable goods |
 
-<s>a durable member</s> ❌ —— 人不会"耐用"。这是选项设计者故意造的荒谬搭配，**遇到搭配题先问"这个形容词能修饰人吗"。**
+<s>a durable member</s> ❌ — people do not wear well like appliances. The absurdity is deliberate on the examiner's part. **On collocation questions, first ask whether the adjective can describe a person at all.**
 
-### 9. `dimension` vs. `compassion` —— 没关系的两个词
+### 9. `dimension` vs. `compassion` — unrelated words
 
-你卡片里把它们放一起，估计是同一道题的两个选项。它们除了都以 `-sion` 结尾之外**毫无关联**：
+Your deck groups these, probably because they were options in one question. Beyond the `-sion` ending they have **nothing in common**:
 
-- `dimension`＝**尺寸、维度、方面**（见 Unit 08：plot dimensions）
-- `compassion`＝**同情、怜悯**（com-＝共 + passion＝受苦 → 感同身受）
-  形容词 `compassionate`；`compassionate leave`＝**恩恤假**（家人过世等）
+- `dimension` = **a measurement, an aspect** (Unit 08: plot dimensions)
+- `compassion` = **sympathy, pity** (*com-* = with + *passion* = suffering → feeling with someone)
+  Adjective `compassionate`; `compassionate leave` = **leave granted for a family bereavement or crisis**
 
-`-sion / -tion` 结尾的名词非常多，**光看后缀无法判断词义**，必须记词根：dimen-（测量）vs compass-（共苦）。
+`-sion` and `-tion` nouns are everywhere, so **the suffix tells you nothing about meaning**. The root does: *dimen-* (to measure) against *compass-* (to suffer with).
 
-### 10. `courteous` vs. `friendly` —— 礼貌的两种温度
+### 10. `courteous` vs. `friendly` — two temperatures of politeness
 
-| 词 | 温度 | 场合 |
+| Word | Temperature | Setting |
 |---|---|---|
-| `courteous` | **正式、克制的礼貌** | 客服、商务信函（"周到有礼"） |
-| `polite` | 中性礼貌 | 通用 |
-| `friendly` | **热情、亲切** | 偏人际温度，不一定正式 |
-| `cordial` | 诚挚友好（正式） | 外交、商务 |
-| `hospitable` | **好客的** | 招待客人 — `warm hospitality`＝热情款待 |
+| `courteous` | **formal, restrained politeness** | customer service, business letters |
+| `polite` | neutral | general |
+| `friendly` | **warm, approachable** | interpersonal; not necessarily formal |
+| `cordial` | warmly formal | diplomacy, business |
+| `hospitable` | **welcoming to guests** | hosting — `warm hospitality` |
 
-托业的客服/酒店类文章几乎只用 `courteous` 和 `hospitable`，因为它们描述的是**职业素养**，而不是私人感情。
+Service and hospitality passages in TOEIC use `courteous` and `hospitable` almost exclusively, because they describe **professional conduct** rather than personal affection.
 
 ### 11. `counselor` vs. `consultant` vs. `advisor`
 
-| 词 | 干什么的 |
+| Word | What they do |
 |---|---|
-| `counselor` | **心理/生涯辅导员**（一对一谈话帮人解决困扰）；美式也指"律师" |
-| `consultant` | **（专业领域的）顾问**（受雇给组织出方案，按项目收费） |
-| `advisor / adviser` | 顾问（最泛，学术/财务/政策都用） |
-| `counseling services` | **心理咨询服务** |
-| `consulting practice` | **咨询业务**（一家咨询公司/个人执业） |
+| `counselor` | **a guidance or therapy professional** (one-to-one, personal difficulties); in American usage, also a lawyer |
+| `consultant` | **a specialist adviser to organisations**, engaged per project |
+| `advisor / adviser` | an adviser, the broadest term (academic, financial, policy) |
+| `counseling services` | **counselling provision** |
+| `consulting practice` | **a consultancy business** |
 
-记忆钩子：**counsel 管"人的困扰"，consult 管"组织的问题"。**
+Hook: **counsel deals with a person's difficulties; consult deals with an organisation's problems.**
 
-⚠️ 拼写：`counsel`（辅导，一个 l）vs `council`（议会，Unit 08 的 District Council）—— **发音相同，意思无关**，托业考过。
-- `city council`＝市议会 ｜ `council member`＝议员
-- `counsel sb`＝辅导某人 ｜ `legal counsel`＝法律顾问
+⚠️ Spelling: `counsel` (to advise, one *l*) versus `council` (an assembly — the District Council in Unit 08). **They sound identical and mean nothing alike**, and TOEIC has tested it.
+- `city council`, `council member`
+- `counsel sb`, `legal counsel`
 
 ### 12. `booklet` vs. `brochure` vs. `pamphlet` vs. `memorandum`
 
-你卡片里标了 `booklet vs brochure`，一次性排清这组"纸质印刷品"：
+Your deck flags `booklet vs brochure`; here is the whole printed-matter set:
 
-| 词 | 形态 | 用途 |
+| Word | Form | Purpose |
 |---|---|---|
-| `booklet` | **小册子**（有几页、装订成册） | 说明、指南 |
-| `brochure` [broʊˈʃʊr] | **（彩印）宣传册** | **推销**产品/旅游/服务 |
-| `pamphlet` | **（薄的）宣传单/小册子** | 信息告知，常是公益或政治 |
-| `leaflet` / `flyer` | **单张传单** | 派发 |
-| `catalog(ue)` | **产品目录** | 列全部商品 |
-| `manual` | **使用手册** | 操作说明 |
-| `memorandum`（复 `memoranda`）| **备忘录**（缩写 memo） | **公司内部**通知 |
+| `booklet` | **a small bound book**, several pages | instructions, guidance |
+| `brochure` [broʊˈʃʊr] | **a glossy illustrated booklet** | **selling** a product, holiday or service |
+| `pamphlet` | **a thin unbound booklet** | information, often civic or political |
+| `leaflet` / `flyer` | **a single sheet** | handouts |
+| `catalog(ue)` | **a product listing** | the full range |
+| `manual` | **an instruction book** | how to operate something |
+| `memorandum` (plural `memoranda`) | **a memo** | **internal** company communication |
 
-判断法：**brochure 是为了让你买，booklet/pamphlet 是为了让你懂，memo 是公司内部的。**
+The test: **a brochure wants you to buy; a booklet or pamphlet wants you to understand; a memo is internal.**
 
-### 13. `accommodate` / `accommodations` —— 拼写与义项都是坑
+### 13. `accommodate` / `accommodations` — both the spelling and the senses are traps
 
-**拼写**：`accommodate` ＝ **两个 c，两个 m**。这是英语里最常拼错的词之一，记："**两张床（mm）两个人（cc）**"。
+**Spelling**: `accommodate` has **two c's and two m's**. It is among the most misspelled words in English. Hook: **two cots (cc) for two mates (mm).**
 
-| 形式 | 意思 |
+| Form | Meaning |
 |---|---|
-| `accommodate`（动词） | ① **容纳**（The hall accommodates 300.）② **satisfy 迁就、满足（需求）**（We can accommodate your dietary needs.） |
-| `accommodation`（不可数，英式） | **住宿** |
-| `accommodations`（复数，美式） | **住宿设施、客房** |
+| `accommodate` (verb) | ① **to hold, to have room for** (*The hall accommodates 300.*) ② **to oblige, to meet a need** (*We can accommodate your dietary needs.*) |
+| `accommodation` (uncountable, British) | **lodging** |
+| `accommodations` (plural, American) | **rooms, lodgings** |
 
-> The Institute can **accommodate** your team.＝我们能安排/容纳你的团队
-> **accommodations** in the east wing are limited＝东翼的客房有限
+> The Institute can **accommodate** your team. — has room for / can make arrangements for
+> **accommodations** in the east wing are limited — rooms
 
-⚠️ 托业里 **①容纳 ②住宿** 两个义项都高频，靠主语判断：**主语是场所 → 容纳；主语是名词短语作主语且谈房间 → 住宿。**
+⚠️ Both the "hold" and the "lodging" senses are frequent in TOEIC. Use the subject to decide: **a venue as subject → capacity; the word itself as subject alongside rooms → lodging.**
 
 ### 14. `withhold` / `mimic` / `function` / `anyhow` / `significant other`
 
-- **`withhold`**（with-＝back 向后 + hold）＝**扣留、不给予**
+- **`withhold`** (*with-* = back + *hold*) = **to hold back, to refuse to give**
   > The Institute will **withhold** ten percent until the report is submitted.
-  - `withhold payment / information / approval`＝扣款／隐瞒信息／不予批准
-  - 三态：withhold – with**held** – with**held**
-  - 同族：`withdraw`（撤回）/ `withstand`（经受住）—— **with- 在古英语里是"反、离"的意思**，不是"和"
-- **`mimic`**＝**模仿**（动词，⚠️ 过去式加 k：mimic – mimi**ck**ed – mimi**ck**ed）
-  同款加 k 的：panic – panicked ｜ picnic – picnicked ｜ traffic – trafficked
-- **`a function`**＝① 功能 ② **（正式的）社交活动/宴会** ← 这个义项是考点
-  > a company **function**＝公司活动（年会、答谢宴）
-  动词 `function`＝运转（`function properly` ＝ 正常运转，对照 Unit 06 的 `malfunctioning`）
-- **`anyhow`** ＝ `anyway`＝**不管怎样、总之**（口语，用于转换话题或收尾）
-- **`significant other`**＝**伴侣、另一半**（中性说法，不预设婚姻状态）
+  - `withhold payment / information / approval`
+  - Forms: withhold – with**held** – with**held**
+  - Relatives: `withdraw`, `withstand` — **in Old English `with-` meant *against* or *away*,** not *together with*.
+- **`mimic`** = **to imitate** (⚠️ adds a k in the past: mimic – mimi**ck**ed)
+  Same pattern: panic – panicked, picnic – picnicked, traffic – trafficked.
+- **`a function`** = ① a purpose or capability ② **a formal social occasion** ← the tested sense
+  > a company **function** = a corporate event
+  As a verb, `function` = to operate (`function properly`, against Unit 06's `malfunctioning`).
+- **`anyhow`** = `anyway` = **in any case** (colloquial; used to change or close a topic).
+- **`significant other`** = **a partner or spouse**, with no assumption about marital status
   > Employees may bring a **significant other** to the annual dinner.
-  这是邀请函里的标准措辞，托业出现过；也说 `a guest` / `a plus-one`
+  Standard wording on invitations; also `a guest`, `a plus-one`.
 
 ### 15. `address sb as` / `Ms.` / `hand over a check`
 
-- **`address sb as X`**＝**称呼某人为 X**
-  > how you prefer to be **addressed**＝您希望我们如何称呼您
-  `address` 的三个义项都考：① 地址 ② **称呼** ③ **处理（问题）**——`address the issue`＝着手解决问题
-- **`Ms.`** [mɪz]＝**女士**（不表明婚姻状态，商务场合的默认选择）
-  - `Mrs.`＝已婚女士 ｜ `Miss`＝未婚女士 ｜ `Ms.`＝**中性，不确定或对方偏好时用这个**
+- **`address sb as X`** = **to call someone by the title X**
+  > how you prefer to be **addressed**
+  All three senses of `address` are tested: ① a location ② **a form of address** ③ **to tackle a problem** — `address the issue`.
+- **`Ms.`** [mɪz] = **a courtesy title for a woman** that says nothing about marital status — the default in business.
+  - `Mrs.` (married) | `Miss` (unmarried) | `Ms.` (**neutral; the safe choice**)
   - `Mr.` / `Dr.` / `Prof.`
-  - ⚠️ 美式写法带句点（Ms.），英式常不带（Ms）
-- **`hand over a check`**＝**（正式地）递交支票**
-  - `hand over`＝移交（权力、物品、职责）
-  - `a check`（美）/ `a cheque`（英）＝支票
-  - `made payable to X`＝抬头写给 X（Unit 04）
-  - 大额捐赠的"递支票"仪式在托业的活动报道里常出现
+  - ⚠️ American style takes the full stop (Ms.); British style often omits it (Ms).
+- **`hand over a check`** = **to present a cheque formally**
+  - `hand over` = to transfer (authority, an object, a duty)
+  - `a check` (American) / `a cheque` (British)
+  - `made payable to X` = made out to X (Unit 04)
+  - The ceremonial handing-over of a cheque is a staple of TOEIC event coverage.
 
-### 16. `the US` / `the USA` / `America` —— 你卡片里的小问题
+### 16. `the US` / `the USA` / `America` — the small point in your deck
 
-| 写法 | 用法 |
+| Form | Usage |
 |---|---|
-| `the US` / `the U.S.` | **最常用**，注意**必须带 the** |
-| `the USA` / `the United States` | 正式全称，也带 the |
-| `America` | **不带 the**；口语常用，但严格说可指整个美洲 |
-| `American` | 形容词/名词，不带 the |
+| `the US` / `the U.S.` | **the commonest form**; the **the** is obligatory |
+| `the USA` / `the United States` | the full formal name, also with *the* |
+| `America` | **no *the***; common in speech, though strictly it names the continents |
+| `American` | adjective or noun, no *the* |
 
-⚠️ 规则：**国名里含普通名词（States, Kingdom, Republic）的必须加 the** —— the United States / the United Kingdom / the Netherlands / the Philippines。
-纯专名不加：America / Japan / France / China。
+⚠️ The rule: **a country name containing a common noun (States, Kingdom, Republic) takes *the*** — the United States, the United Kingdom, the Netherlands, the Philippines. Pure proper names do not: America, Japan, France, China.
 
-**顺带说一句专有名词**：你卡片里出现了 `Detroit` / `Boston` / `Tampa City Council` / `Dresden, Inc.` / `Florentine` / `Fulton County` —— 托业里的地名公司名**不需要认识背景**，**只需要认出它是个专名**（首字母大写），然后把它当成一个代号处理。看到不认识的大写词就跳过，不要停下来猜——这是 Part 7 提速最有效的一条习惯。
+**A word on proper nouns generally.** Your deck contains `Detroit`, `Boston`, `Tampa City Council`, `Dresden, Inc.`, `Florentine` and `Fulton County`. In TOEIC you **never need background knowledge** about a place or company. You only need to **recognise that a capitalised word is a name**, then treat it as a label and move on. Not stopping to puzzle over unfamiliar capitalised words is the single most effective way to speed up Part 7.
 
-（`Florentine`＝佛罗伦萨的，也是一道菜名前缀；`Dresden` 是德国城市，做公司名时和城市无关。）
+(For the record: `Florentine` means *of Florence* and also names a style of dish; `Dresden` is a German city, unrelated to the fictional company that borrows the name.)
 
 ---
 
-## 自测
+## Self-test
 
 **1.** ______ your enquiry of 3 October, we are pleased to confirm the booking.
 (A) Regarding to  (B) With regards to  (C) With regard to  (D) In regard of
 
-<details><summary>答案</summary>
+<details><summary>Answer</summary>
 
-**(C) With regard to**。
+**(C) With regard to**.
 
-(A) `regarding` 后不能加 to；(B) 信尾问候才用 `regards`，此处应为单数；(D) 搭配不存在（正确的是 `in regard to`）。
+(A) `regarding` cannot take *to*; (B) the plural *regards* belongs to the sign-off, not here; (D) the correct form would be `in regard to`.
 
 </details>
 
 **2.** She is a ______ member of our team and will be greatly missed.
 (A) durable  (B) valued  (C) valuable  (D) generous
 
-<details><summary>答案</summary>
+<details><summary>Answer</summary>
 
-**(B) valued**＝受重视的（修饰人）。
+**(B) valued** = held in high regard (of people).
 
-(A) 耐用的，只能修饰物；(C) valuable 修饰人时语感奇怪（像在说这人"有使用价值"）；(D) 慷慨的，语义不符。
+(A) means long-lasting and applies to objects; (C) applied to a person sounds as if they have resale value; (D) means open-handed, which does not fit.
 
 </details>
 
 **3.** I'd like to ______ an appointment with Dr. Feng and ______ a room for two nights.
 (A) reserve / make  (B) make / reserve  (C) book / make  (D) make / make
 
-<details><summary>答案</summary>
+<details><summary>Answer</summary>
 
-**(B) make / reserve**。约**人**用 `make an appointment`，订**房**用 `reserve/book a room`。
+**(B) make / reserve**. You **make an appointment** with a person and **reserve** or **book** a room.
 
 </details>
 
 **4.** Recent ______ in battery technology have reduced charging times by half.
 (A) advancement  (B) advances  (C) advance  (D) advanced
 
-<details><summary>答案</summary>
+<details><summary>Answer</summary>
 
-**(B) advances**＝技术进展（复数）。固定搭配 `advances **in** + 领域`。
+**(B) advances** = breakthroughs, in the fixed pattern `advances **in** + field`.
 
-(A) advancement 指个人职位晋升，用在技术上不对。
+(A) `advancement` refers to a person's promotion and does not fit a technology.
 
 </details>
 
-**5.** 下面哪个词的拼写是对的？
+**5.** Which spelling is correct?
 (A) accomodate  (B) acommodate  (C) accommodate  (D) accomadate
 
-<details><summary>答案</summary>
+<details><summary>Answer</summary>
 
-**(C) accommodate** —— 两个 c、两个 m、中间是 o。
+**(C) accommodate** — two c's, two m's, and an *o* between them.
 
-助记："两张床（**mm**）给两个人（**cc**）"。
+Hook: two cots (**cc**) for two mates (**mm**).
 
 </details>
 
 **6.** The company will ______ final payment until the inspection is complete.
 (A) withdraw  (B) withhold  (C) withstand  (D) uphold
 
-<details><summary>答案</summary>
+<details><summary>Answer</summary>
 
-**(B) withhold**＝扣留不付。
+**(B) withhold** = to hold back payment.
 
-(A) 撤回/取款；(C) 经受住；(D) 支持、维持（uphold a decision＝维持原判）。四个词共享 `with-/up-` 前缀，是典型的成组干扰。
+(A) to retract or to take out money; (C) to endure; (D) to maintain or affirm (*uphold a decision*). All four share a prefix and form a standard cluster of distractors.
 
 </details>
 
 **7.** Please let me know whether "Dr." or "Professor" is ______ .
 (A) permitable  (B) permissible  (C) permissive  (D) permitting
 
-<details><summary>答案</summary>
+<details><summary>Answer</summary>
 
-**(B) permissible**＝被允许的。
+**(B) permissible** = allowed.
 
-(A) 不是英语词（permit 的形容词形式是不规则的 permissible）；(C) permissive＝放任的、纵容的（a permissive parent），语义不符。
+(A) is not an English word — *permit* has the irregular adjective *permissible*. (C) `permissive` means indulgent or lax (*a permissive parent*), which does not fit.
 
-**这题就是"生造词陷阱"的典型**——(A) 看起来完全合理，但它不存在。
+**This is the invented-word trap in its purest form**: (A) looks entirely reasonable and does not exist.
 
 </details>
 
-**8.** 判断：下面哪一句用错了 `of interest`？
+**8.** Which sentence misuses `of interest`?
 (A) You may find this report of interest.
 (B) There is nothing of interest in the file.
 (C) This is a very of interest topic.
 (D) The section on pricing will be of particular interest to you.
 
-<details><summary>答案</summary>
+<details><summary>Answer</summary>
 
-**(C)** 错。`of interest` 是**介词短语**，只能作表语（be of interest）或后置定语（something of interest），**不能放在名词前面**当定语。
+**(C)**. `of interest` is a **prepositional phrase**: it works as a complement (*be of interest*) or as a postmodifier (*something of interest*), but it **cannot sit in front of a noun**.
 
-要说"一个很有意思的话题"只能用 `a very interesting topic`。
+"A very interesting topic" is the only way to say it attributively.
 
 </details>
 
 ---
 
-## 今日收尾
+## Closing the day
 
-这十个单元覆盖了你 Anki 里约 **240 个遗忘点**中的绝大多数，分布在六个托业最高频的场景（人事、活动、房产、金融、通知、劳资）加两个专题（语法、词形）。
+These ten units cover the large majority of the roughly **240 distinct gaps** in your deck, spread across six of TOEIC's highest-frequency settings (hiring, events, property, finance, notices, labour) plus two dedicated units on grammar and word forms.
 
-**如果今天只能记住三件事，建议是：**
+**If only three things survive today, make them these:**
 
-1. **`despite` 接名词，`although` 接句子**（Unit 09 第 1 节）—— Part 5 出现率最高的单点
-2. **`staff` 是人、`stuff` 是物；`morale` 是士气、`moral` 是道德**（Unit 06）—— 你标记了两次的硬伤
-3. **广告和通知的小字里藏着答案**（Unit 07 第 4 节）—— 一个阅读习惯，比背十个单词管用
+1. **`despite` takes a noun; `although` takes a clause** (Unit 09, §1) — the single most frequent Part 5 item.
+2. **`staff` are people and `stuff` is things; `morale` is spirit and `moral` is ethics** (Unit 06) — the point you flagged twice.
+3. **The answers hide in the small print of advertisements and notices** (Unit 07, §4) — one reading habit, worth more than ten words.
 
-**明天的建议**：先不看讲解，把十个单元的**英文文章**重读一遍（约 15 分钟），看还剩多少生词。剩下的就是真正需要进 Anki 的。
+**For tomorrow**: reread only the **English passages** from all ten units, with the notes closed — about fifteen minutes. Whatever is still opaque is what genuinely belongs in Anki.
 
 ---
 
-[← 上一单元](09-grammar.md) ｜ [返回当日目录](README.md)
+[← Previous](09-grammar.md) | [Day 01 index](README.md)

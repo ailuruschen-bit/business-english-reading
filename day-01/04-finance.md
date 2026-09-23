@@ -1,8 +1,8 @@
-# Unit 04 · 银行、账款与公司财务
+# Unit 04 · Banking, Debt and Corporate Finance
 
-> **本单元针对你的真实遗忘点**：`credit denied` / `collection agency` / `repossession` / `consolidate accounts` / `outstanding balance` / `paid in full` / `reduction in payment` / `bi-weekly payment` / `remit` / `repayment` / `paycheck` / `compensation for damages` / `prevalent` / `in compliance with` / `confidential information` / `loans vs. profit` / `be indicted for embezzling an undisclosed amount of money` / `majority vote standard / shareholders` / `annual pension / Incorporated` / `in a desperate move to increase revenues` / `enrollment has more than tripled`
+> **Gaps this unit targets**: `credit denied` / `collection agency` / `repossession` / `consolidate accounts` / `outstanding balance` / `paid in full` / `reduction in payment` / `bi-weekly payment` / `remit` / `repayment` / `paycheck` / `compensation for damages` / `prevalent` / `in compliance with` / `confidential information` / `loans vs. profit` / `be indicted for embezzling an undisclosed amount of money` / `majority vote standard / shareholders` / `annual pension / Incorporated` / `in a desperate move to increase revenues` / `enrollment has more than tripled`
 >
-> **建议用时**：11 分钟
+> **Time**: 11 minutes
 
 ---
 
@@ -45,184 +45,182 @@ Analysts noted that the company's difficulties are not confined to the investiga
 
 ---
 
-## 讲解
+## Notes
 
-### 1. 一笔欠款的生命周期：按顺序记这组词
+### 1. The life cycle of a debt — learn this cluster in order
 
-托业催款信几乎都按同一条时间线走。把这条线记住，生词就串起来了：
+Collection letters follow one timeline. Fix the timeline and the vocabulary comes with it:
 
 ```
-invoice 开票 → due date 到期 → overdue 逾期 → in arrears 拖欠中
-   → outstanding balance 未结余额 → collection agency 催收公司
-   → credit denied 信贷被拒 → repossession 收回抵押物
+invoice issued → due date → overdue → in arrears
+   → outstanding balance → collection agency
+   → credit denied → repossession
 ```
 
-- **`outstanding`**＝**未付清的、未了结的**（不是"杰出的"！）。
+- **`outstanding`** = **unpaid, unsettled** — not "excellent."
   `outstanding balance` / `outstanding account` / `outstanding invoice`
-  ⚠️ 同一个词两个义项都考：`an outstanding employee`（杰出员工）vs `an outstanding payment`（未付款项）。判断靠搭配：**跟钱走＝未付，跟人走＝杰出。**
-- **`balance`**＝**余额**（不是"平衡"）。`account balance` / `pay the balance`
-- **`in arrears`** [əˈrɪrz]＝拖欠（永远复数）。`three months in arrears`＝欠了三个月
-- **`collection agency`**＝**催收机构**。`collection` 这里＝收账，不是"收藏"
-- **`repossession`**＝**（因未还款被）收回**。动词 `repossess`。车贷房贷违约后银行把车/房收走
-- **`deny`**＝① 拒绝给予（`credit denied`＝信贷申请被拒）② 否认（`has denied the charges`）。Passage A 和 B 各用了一个义项
+  ⚠️ Both senses are tested. The rule of thumb: **next to money it means unpaid; next to a person it means excellent.**
+- **`balance`** = **the amount remaining**, not equilibrium. `account balance`, `pay the balance`.
+- **`in arrears`** [əˈrɪrz] = behind on payments (always plural). `three months in arrears`.
+- **`collection agency`** = **a debt-recovery firm**. `collection` here is the collecting of money.
+- **`repossession`** = **seizure of an asset for non-payment**. Verb `repossess` — what the lender does to the car or house behind a defaulted loan.
+- **`deny`** = ① to refuse to grant (`credit denied`) ② to reject an accusation (`has denied the charges`). Passage A uses the first, Passage B the second.
 
-### 2. 付款动作：`remit` / `repayment` / `paycheck`
+### 2. Making payments: `remit` / `repayment` / `paycheck`
 
-- **`remit`** [rɪˈmɪt]＝**汇款、支付**（正式）。名词 `remittance`＝汇款。
+- **`remit`** [rɪˈmɪt] = **to send payment** (formal). Noun `remittance`.
   > Payments may be **remitted** by bank transfer.
-  ⚠️ `remit` 还有"免除（债务/处罚）"的义项，但托业里 90% 是"汇款"。
-- **`repayment`**＝**还款**（还回去）；`payment`＝付款。多一个 `re-` 差在"偿还既有债务"。
-- **`paycheck`**（美）/ `pay cheque`（英）＝**工资支票 → 薪水**。
-  `a weekly paycheck` ／ 口语里 `live paycheck to paycheck`＝月光
-- **`bi-weekly`**＝**两周一次**（也可指"一周两次"，歧义词；托业语境基本都是"两周一次"，因为对应发薪周期）。
-  对照：`biannual`＝一年两次 ｜ `biennial`＝两年一次（这一对最坑）
+  ⚠️ `remit` can also mean to cancel a debt or penalty, but in TOEIC it is nearly always "pay."
+- **`repayment`** = **paying back** an existing debt; `payment` is any payment. The `re-` marks the returning.
+- **`paycheck`** (American) / `pay cheque` (British) = **a wage payment**.
+  `a weekly paycheck`; colloquially `live paycheck to paycheck` = to have nothing left over.
+- **`bi-weekly`** = **every two weeks** (it can also mean twice a week — an ambiguous word, but in TOEIC it tracks the pay cycle).
+  Compare: `biannual` = twice a year | `biennial` = every two years. That pair is the real menace.
 
-### 3. `effective + 日期` —— "自……起生效"
+### 3. `effective + date` — "taking effect from"
 
 > a bi-weekly payment of $250, **effective Friday, 31 March**
 
-`effective` 在这里是形容词做后置修饰，＝**自该日起生效**。不要翻成"有效的"。
+Here `effective` is an adjective placed after the noun, meaning **in force from that date**. It does not mean "efficient."
 
-同义表达梯队：
-- `effective 31 March` ＝ `with effect from 31 March` ＝ `as of 31 March` ＝ `starting on 31 March`
+The synonym ladder:
+`effective 31 March` = `with effect from 31 March` = `as of 31 March` = `starting on 31 March`
 
-⚠️ 你 Anki 里有 `starting on Monday` 和 `show up to work` 那组，考的就是这个"生效起始点"。Part 7 常问 "When will the new rate take effect?" → 直接找 `effective / as of / starting` 后面的日期。
+⚠️ Your cards for `starting on Monday` and `show up to work` are testing exactly this idea of a start date. Part 7 asks "When will the new rate take effect?" → find `effective / as of / starting` and read the date beside it.
 
-**这里埋了一个日期陷阱**：信里说 30 September 之前联系，方案 effective 31 March，余额 31 October 付清。三个日期分属"回复期限 / 生效日 / 最终期限"，题目会故意问其中一个。**读催款信时把每个日期旁边标上它属于哪一类**，这是最有效的做题习惯。
+**There is a deliberate date trap here**: the letter gives 30 September (deadline to respond), 31 March (when the plan begins) and 31 October (final payment deadline). Three dates in three different roles, and the question will target one of them. **When reading a collection letter, label each date with its role as you go** — it is the single most effective habit for this passage type.
 
-### 4. `consolidate` —— 合并
+### 4. `consolidate` — to merge into one
 
 > the option to **consolidate** your three existing accounts into a single facility
 
-`consolidate`＝**合并、整合**（把散的变成一个），也可指"巩固"。
+`consolidate` = **to combine into one**, and by extension to strengthen.
 
-- `consolidate accounts`＝并账
-- `consolidated efforts`＝**齐心协力**（你卡片里有：The project succeeded through the consolidated efforts of several departments.）
-- `a consolidated report`＝合并报表
+- `consolidate accounts` = merge accounts
+- `consolidated efforts` = **combined effort** (your card: *The project succeeded through the consolidated efforts of several departments.*)
+- `a consolidated report` = a combined statement
 
-⚠️ `facility` 在金融语境＝**（一笔）信贷额度/融资安排**，不是"设施"。
-对比你卡片里的另一句：`The new sports complex will accommodate several **facilities**, including a pool and a spa.`——那里才是"设施"。**同一个词，金融场景 vs 建筑场景，义项完全不同。**
+⚠️ In finance, `facility` means **a credit line or funding arrangement**, not a building.
+Compare your other card: `The new sports complex will accommodate several **facilities**, including a pool and a spa.` — there it is amenities. **Same word, and the financial and architectural senses have nothing in common.**
 
 ### 5. `be indicted for` / `embezzle` / `undisclosed`
 
 > has been **indicted for embezzling an undisclosed amount** of money
 
-- **`indict`** [ɪnˈdaɪt]（**c 不发音！**）＝**起诉、控告**。`be indicted for + 罪名/doing sth`
-- **`embezzle`**＝**挪用、侵吞（公款）**。名词 `embezzlement`
-- **`undisclosed`**＝**未公开的**（un-＋disclose 披露）。商业新闻套话：
-  - `an undisclosed amount`＝金额未公开
-  - `for an undisclosed sum`＝以未公开的价格（收购新闻里必现）
-  - `undisclosed sources`＝未具名消息源
+- **`indict`** [ɪnˈdaɪt] — **the c is silent** — = **to formally charge with a crime**. `be indicted for + crime / doing sth`
+- **`embezzle`** = **to steal money entrusted to you**. Noun `embezzlement`.
+- **`undisclosed`** = **not made public** (*un-* + *disclose*). Business-news boilerplate:
+  - `an undisclosed amount`
+  - `for an undisclosed sum` (standard in acquisition reports)
+  - `undisclosed sources`
 
-配套法务词：`allege`（指称）/ `charges`（指控）/ `deny the charges`（否认指控）/ `compensation for damages`（**损害赔偿**——⚠️ `damages` 复数＝赔偿金，单数 `damage`＝损害本身)。
+Legal companions: `allege` (to claim), `charges` (accusations), `deny the charges`, `compensation for damages` — ⚠️ **`damages` in the plural means monetary compensation**, while singular `damage` is the harm itself.
 
-### 6. `in compliance with` —— 符合规定
+### 6. `in compliance with` — conforming to a rule
 
-`be in compliance with + 规则/标准`＝**符合、遵守**。
+`be in compliance with + rule or standard` = **to comply with**.
 
-- 动词：`comply with`（⚠️ 介词是 with，不是 <s>comply to</s>）
-- 名词：`compliance`
-- 形容词：`compliant`
-- 反面：`be in violation of`＝违反
+- Verb: `comply with` (⚠️ the preposition is *with*, never <s>comply to</s>)
+- Noun: `compliance` | Adjective: `compliant`
+- Opposite: `be in violation of`
 
-近义梯队（Part 7 改写题常互换）：
-`comply with` ＝ `conform to` ＝ `adhere to` ＝ `abide by` ＝ `be in accordance with`
+The paraphrase ladder that Part 7 swaps among:
+`comply with` = `conform to` = `adhere to` = `abide by` = `be in accordance with`
 
 ### 7. `prevalent` / `majority vote` / `enrollment` / `tripled`
 
-- **`prevalent`**＝**普遍存在的、盛行的**。`a prevalent practice`＝普遍做法
-  近义：`widespread` / `common` ｜ 名词 `prevalence`
-- **`majority vote standard`**＝**多数票表决标准**。
-  `majority`＝多数 ｜ `a simple majority`＝简单多数 ｜ `unanimously`＝**全票一致地**（你卡片里有：`The board approved the plan unanimously.`）
-- **`shareholder`**（英 `stockholder` 美）＝股东 ｜ `board of directors`＝董事会 ｜ `constitution`＝**（公司）章程**（不只是"宪法"）
-- **`enrollment`**＝**注册人数、参加人数**（美式拼 enrollment，英式 enrolment）。
+- **`prevalent`** = **widespread, commonly occurring**. `a prevalent practice`. Noun `prevalence`. Near-synonyms: `widespread`, `common`.
+- **`majority vote standard`** = **approval by a majority of votes**.
+  `a simple majority` = more than half | `unanimously` = **with everyone in agreement** (your card: *The board approved the plan unanimously.*)
+- **`shareholder`** (American `stockholder`) = an owner of shares | `board of directors` = the governing body | `constitution` = **a company's founding rules**, not only a national constitution
+- **`enrollment`** = **the number of people signed up** (British `enrolment`).
   > Enrollment **has more than tripled** since 2019.
-  `double / triple / quadruple` 都能作**动词**："翻倍/翻三倍/翻四倍"。`more than tripled`＝增至三倍以上。
-  ⚠️ 英语的 "tripled" ＝ 变成原来的 3 倍（增长 200%），中文"翻三倍"容易算错——**读到倍数题，先在心里换算成"变成 N 倍"**。
+  `double`, `triple` and `quadruple` all work as **verbs**. `more than tripled` = increased to over three times the original.
+  ⚠️ English "tripled" means *became three times as large* (a 200% increase). **Whenever a multiple appears, convert it in your head to "became N times as large"** before answering.
 
 ### 8. `Incorporated` / `Inc.` / `Ltd.` / `Corp.`
 
-- `Incorporated`（缩写 `Inc.`）＝**股份有限公司**（美式）。写全称时前面加逗号：`Merchants Trust, Incorporated`
-- `Ltd.`＝有限公司（英式）｜ `Corp.`＝公司 ｜ `LLC`＝有限责任公司 ｜ `& Co.`＝及其合伙人
-- 托业里这些只是**公司名的一部分**，不影响理解；但 `made payable to Merchants Trust, Incorporated` 这种句子要认得出 —— `made payable to X`＝**支票抬头写 X**。
+- `Incorporated` (`Inc.`) = an American incorporated company. Written out, it follows a comma: `Merchants Trust, Incorporated`.
+- `Ltd.` (British limited company) | `Corp.` | `LLC` | `& Co.`
+- In TOEIC these are just **parts of a company name** and need no background knowledge. What you do need to recognise is the phrase `made payable to Merchants Trust, Incorporated` — **`made payable to X`** means *write the cheque to X*.
 
-### 9. `loans` vs `profit` —— 一句话的逻辑陷阱
+### 9. `loans` vs `profit` — a trap built into one sentence
 
 > Dresden's **loans** now exceed its annual **profit** by a wide margin.
 
-`loan`＝借款（负债），`profit`＝利润（收益）。这句＝**欠的钱远超一年赚的钱**，是负面信号。
+`loan` = borrowed money (a liability); `profit` = earnings. The sentence means **the company owes far more than it earns in a year** — a negative signal.
 
-托业 Part 7 的推断题极爱拿这类句子出题："What do the analysts imply about Dresden?" → "It is carrying a heavy debt burden."
+Part 7 inference questions love this kind of line: "What do the analysts imply about Dresden?" → *It is carrying a heavy debt burden.*
 
-配套：
-- `by a wide margin`＝**差距很大地**（margin＝差额、利润率）
-- `profit margin`＝利润率
-- `revenue`＝**营收**（收进来的总额）≠ `profit`（利润＝营收－成本）。⚠️ 这两个词的区别本身就是考点
-- `in a desperate move to increase revenues`＝**为增加营收而采取的孤注一掷的举措**（`desperate` 在新闻里＝走投无路的，带强烈负面色彩）
+Companions:
+- `by a wide margin` = **by a large difference** (`margin` = the gap, or the profit rate)
+- `profit margin` = the percentage of revenue kept as profit
+- `revenue` = **total income taken in**, which is not `profit` (revenue minus costs). ⚠️ That distinction is itself a tested item.
+- `in a desperate move to increase revenues` = **a last-ditch attempt to raise income** (`desperate` in news writing is strongly negative)
 
 ---
 
-## 自测
+## Self-test
 
-**1.** 选词：The ______ balance must be paid in full by Friday.
-(A) outstanding  (B) outstanding的 (C) standing  (D) understanding
+**1.** Choose: The ______ balance must be paid in full by Friday.
+(A) outstanding  (B) understanding  (C) standing  (D) outstandingly
 
-<details><summary>答案与解析</summary>
+<details><summary>Answer and explanation</summary>
 
-**(A) outstanding**＝未付清的。
+**(A) outstanding** = unpaid.
 
-翻译：未结余额须于周五前付清。注意这里的 `outstanding` 绝不是"杰出的"。
+The sentence means *the unpaid balance must be settled by Friday*. This is emphatically not "excellent."
 
 </details>
 
-**2.** 下列哪一个介词搭配是错的？
+**2.** Which preposition pairing is wrong?
 (A) comply with the regulations
 (B) be indicted for embezzlement
 (C) apply to the university
 (D) conform with the standard
 
-<details><summary>答案与解析</summary>
+<details><summary>Answer and explanation</summary>
 
-**(D)** 通常错。规范用法是 `conform **to** the standard`（也有 conform with 的用法但不如 to 标准，托业按 `to` 考）。
+**(D)** is the odd one out. The standard form is `conform **to** the standard` (*conform with* exists but TOEIC tests *to*).
 
-(A)(B)(C) 都正确。`comply` 配 `with`，`conform` 配 `to`——这两个近义词介词却相反，是托业的经典陷阱。
-
-</details>
-
-**3.** "Enrollment has more than tripled since 2019." 若 2019 年是 400 人，现在至少是多少人？
-
-<details><summary>答案与解析</summary>
-
-**超过 1,200 人。**
-
-`tripled`＝变成 3 倍（400 × 3 ＝ 1,200），`more than tripled`＝超过 1,200。
-
-托业数字题的两个常见坑：① 中英倍数换算 ② "increase **by** 20%"（增加了 20%）vs "increase **to** 20%"（增至 20%）——`by` 是增量，`to` 是终值。
+(A), (B) and (C) are all correct. `comply` takes *with* while `conform` takes *to* — two near-synonyms with opposite prepositions, which is exactly why they are tested.
 
 </details>
 
-**4.** 根据 Passage A，如果 Okafor 先生在 9 月 30 日之前联系了银行，最可能避免的后果是什么？
+**3.** "Enrollment has more than tripled since 2019." If there were 400 people in 2019, how many are there now, at minimum?
 
-<details><summary>答案与解析</summary>
+<details><summary>Answer and explanation</summary>
 
-**账户被转交外部催收公司（referred to an external collection agency），并可能连带避免信贷被拒和抵押物被收回。**
+**More than 1,200.**
 
-推理链：信中说"逾期 90 天以上的账户会转交催收公司"，同时提出"若您在 9 月 30 日前联系本处，我们愿意提供以下方案"——所以及时联系＝进入协商方案，而非进入催收流程。
+`tripled` = became three times as large (400 × 3 = 1,200), and `more than tripled` pushes it above that.
 
-`Please be advised that…`＝**特此告知**，是正式通知里的警告性套话（你卡片里有这条）。看到它，后面跟的基本都是**不利后果或硬性规定**。
+Two recurring number traps in TOEIC: ① multiples, as here ② "increase **by** 20%" (the increment) versus "increase **to** 20%" (the final figure).
 
 </details>
 
-**5.** Passage B 中 "the practices uncovered were not prevalent elsewhere in the organization" 是公司在表达什么立场？
+**4.** According to Passage A, what is Mr. Okafor most likely to avoid by contacting the bank before 30 September?
 
-<details><summary>答案与解析</summary>
+<details><summary>Answer and explanation</summary>
 
-**在撇清：声称违规行为只是个案，不是公司普遍现象。**
+**Having the account referred to an external collection agency** — and, following from that, the refusal of further credit and the repossession of any secured asset.
 
-`uncovered` 在这里是**过去分词作后置定语**＝"被发现的"（the practices [that were] uncovered），不是"未覆盖的"。这个词形歧义是本段最容易读错的地方：`uncover`＝揭露（un-＋cover，把盖子掀开）。
+The chain: the letter states that accounts over 90 days in arrears go to a collection agency, then offers alternative terms "should you contact this office before 30 September." Contacting in time means entering the negotiated plan rather than the recovery process.
+
+`Please be advised that…` = **formal notification**, the standard warning formula (it is in your deck). What follows it is almost always an adverse consequence or a hard rule.
+
+</details>
+
+**5.** In Passage B, what position is the company taking with "the practices uncovered were not prevalent elsewhere in the organization"?
+
+<details><summary>Answer and explanation</summary>
+
+**It is distancing itself**: claiming the misconduct was isolated rather than systemic.
+
+Note the grammar. `uncovered` here is a **past participle used as a postmodifier** — *the practices [that were] uncovered*, meaning *discovered*. It is not "not covered." This is the most misreadable word in the paragraph: `uncover` = to reveal (*un-* + *cover*, lifting the lid off).
 
 </details>
 
 ---
 
-[← 上一单元](03-real-estate.md) ｜ [返回当日目录](README.md) ｜ [下一单元：通知与交通 →](05-notices.md)
+[← Previous](03-real-estate.md) | [Day 01 index](README.md) | [Next: Notices and Service →](05-notices.md)

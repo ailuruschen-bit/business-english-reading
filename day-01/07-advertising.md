@@ -1,8 +1,8 @@
-# Unit 07 · 零售、健身房与广告文案
+# Unit 07 · Retail, Gyms and Advertising Copy
 
-> **本单元针对你的真实遗忘点**：`state-of-the-art` / `tailor-made` / `top-rated` / `in our industry` / `free weights and treadmills` / `aerobics and dancercise` / `abs, butts and thighs` / `annual membership` / `pump it` / `let loose` / `fanatic` / `obsession` / `in conjunction with` / `All sales are final.` / `photo developing` / `infant clothes` / `model spokesperson` / `endorsement` / `necessarily imply` / `airing a special on` / `thirty-second commercial` / `exclusive` / `automobile parts` / `go off` / `award generous prizes to` / `given away` / `money will be given away`
+> **Gaps this unit targets**: `state-of-the-art` / `tailor-made` / `top-rated` / `in our industry` / `free weights and treadmills` / `aerobics and dancercise` / `abs, butts and thighs` / `annual membership` / `pump it` / `let loose` / `fanatic` / `obsession` / `in conjunction with` / `All sales are final.` / `photo developing` / `infant clothes` / `model spokesperson` / `endorsement` / `necessarily imply` / `airing a special on` / `thirty-second commercial` / `exclusive` / `automobile parts` / `award generous prizes to` / `given away`
 >
-> **建议用时**：10 分钟
+> **Time**: 10 minutes
 
 ---
 
@@ -46,209 +46,206 @@ Annual membership $399 (regularly $560). **Exclusive** to residents of the Calde
 
 ---
 
-## 讲解
+## Notes
 
-### 1. 广告形容词四件套：连字符形容词
+### 1. The advertising adjective set: hyphenated compounds
 
-这几个词在广告里几乎是标配，它们都是**复合形容词**，放在名词前时用连字符连起来：
+These are near-standard in promotional copy, and all of them are **compound adjectives** joined by hyphens when they sit before a noun:
 
-| 词 | 意思 | 记忆 |
+| Word | Meaning | Hook |
 |---|---|---|
-| `state-of-the-art` | **最先进的、尖端的** | 字面"技艺的当前状态"→ 当前最高水平 |
-| `tailor-made` | **量身定制的** | tailor＝裁缝 → 按你的尺寸做 |
-| `top-rated` | **评价最高的** | rate＝评级 |
-| `cutting-edge` | 前沿的 | 刀刃 → 最前端 |
-| `well-established` | 老牌的、成熟的 | |
+| `state-of-the-art` | **the most advanced available** | literally "the state of the art" → the current peak |
+| `tailor-made` | **custom-built** | a tailor makes it to your measurements |
+| `top-rated` | **most highly rated** | *rate* = to grade |
+| `cutting-edge` | at the leading edge | the blade's edge |
+| `well-established` | long-standing, proven | |
 
-⚠️ **连字符规则**（Part 5 会考）：
-- 放在名词**前面**作定语 → 用连字符：`state-of-the-art equipment` ✅
-- 放在系动词**后面**作表语 → 通常不用：`The equipment is state of the art.` ✅
+⚠️ **The hyphen rule** (a Part 5 point):
+- Before a noun (attributive) → hyphenated: `state-of-the-art equipment` ✅
+- After a linking verb (predicative) → usually not: `The equipment is state of the art.` ✅
 
-近义替换（Part 7 改写题）：`state-of-the-art` ≈ `the most advanced` ≈ `cutting-edge` ≈ `the latest`。
+Paraphrases for Part 7: `state-of-the-art` ≈ `the most advanced` ≈ `cutting-edge` ≈ `the latest`.
 
-### 2. 健身房实词：一次性认全
+### 2. Gym vocabulary, learned once
 
-这组词你卡片里连着标了好几条，说明是完全陌生的领域词汇。它们只在健身广告里出现，但出现就一定是细节题答案：
+Your deck flags several of these in a row, which suggests the whole field is unfamiliar. These words appear only in fitness copy — but when they do, they tend to be the answer.
 
-- **`free weights`**＝**自由重量器械**（哑铃、杠铃——"自由"指不固定在机器上，不是"免费"！）
-  ⚠️ 这是最大的陷阱：**free ≠ 免费**。对照文中真正免费的是 `the introductory session is free`
-- **`treadmill`**＝**跑步机**（tread 踩 + mill 磨坊）。比喻义："单调乏味的工作"
-- **`cardio equipment`**＝有氧器械 ｜ `rower`＝划船机 ｜ `cycle`＝动感单车
-- **`aerobics`**＝**有氧操**（永远复数形式，但作单数用：Aerobics **is** good for you.）
-- **`dancercise`**＝**舞蹈健身操**（dance + exercise 的合成词）
-- **`abs, butts and thighs`**＝**腹、臀、腿**（abs＝abdominals 腹肌；thigh＝大腿）——这是欧美健身课的标准课程名
-- **`pump it`**＝**练起来/加油**（健身口号；`pumped`＝肌肉充血鼓胀的，也指"兴奋的"）
-- **`let loose`**＝**放开来、尽情释放**（loose 是形容词"松的"，读 [luːs]，⚠️ 不是 lose [luːz] 丢失）
-- **`annual membership`**＝年卡 ｜ `membership fee`＝会费 ｜ `charter member`＝创始会员
+- **`free weights`** = **dumbbells and barbells**, i.e. weights not fixed to a machine. *Free* means unattached — **it does not mean free of charge.**
+  ⚠️ This is the biggest trap in the passage. The thing that is actually free is named explicitly: `the introductory session is **free**`.
+- **`treadmill`** = **a running machine** (*tread* = to step + *mill*). Figuratively, monotonous work.
+- **`cardio equipment`** = aerobic machines | `rower` = rowing machine | `cycle` = exercise bike
+- **`aerobics`** = **aerobic exercise classes** (plural in form, singular in agreement: *Aerobics **is** good for you.*)
+- **`dancercise`** = **dance-based exercise** (a blend of *dance* + *exercise*)
+- **`abs, butts and thighs`** = **abdominals, glutes and thighs** — a standard class name in gyms
+- **`pump it`** = **work hard at it** (gym slang; `pumped` = with muscles swollen from exertion, or simply excited)
+- **`let loose`** = **to let yourself go, to cut loose** (`loose` [luːs] is the adjective — ⚠️ not `lose` [luːz], to mislay)
+- **`annual membership`** = a yearly membership | `membership fee` | `charter member` = a founding member
 
-### 3. `fanatic` vs. `obsession` —— 狂热的两种词性
+### 3. `fanatic` vs. `obsession` — the person and the state
 
-- **`fanatic`**＝**狂热爱好者**（名词，指人）。缩写就是 `fan`
-  > a weekend **fanatic**＝周末健身狂
-  形容词 `fanatical`＝狂热的
-- **`obsession`**＝**痴迷、执念**（名词，指**这件事本身**，不指人）
+- **`fanatic`** = **a person who is obsessively enthusiastic**. The clipped form is `fan`. Adjective `fanatical`.
+  > a weekend **fanatic** = someone who trains obsessively at weekends
+- **`obsession`** = **the preoccupation itself**, not the person.
   > Gardening is an **obsession** which benefits the whole community.
-  动词 `obsess`；形容词 `be obsessed with sth`＝痴迷于
+  Verb `obsess`; adjective phrase `be obsessed with sth`.
 
-区别：**fanatic 是人，obsession 是状态。**
-`He is a fitness fanatic.` ＝ `Fitness is an obsession for him.`
+The distinction: **a fanatic is a person; an obsession is a condition.**
+`He is a fitness fanatic.` = `Fitness is an obsession for him.`
 
-### 4. `in conjunction with` —— 广告小字里的固定否定
+### 4. `in conjunction with` — the small print's favourite restriction
 
 > This offer is not valid **in conjunction with** any other promotion.
-> 本优惠不可与其他促销同时使用。
 
-`in conjunction with`＝**与……同时/结合**。`conjunction` ＝ 结合（语法里还指"连词"）。
+`in conjunction with` = **together with, in combination with**. `conjunction` = a joining (in grammar, a connecting word).
 
-广告小字（fine print）的固定套话，**整块背下来，看到就知道是"限制条件"**：
+The standard fine-print formulas — **learn them as blocks, and recognise them as restrictions**:
 
-| 套话 | 意思 |
+| Formula | Meaning |
 |---|---|
-| `not valid in conjunction with any other offer` | 不可与其他优惠同享 |
-| `All sales are final.` | **售出概不退换** |
-| `Membership fees are non-refundable.` | 会费不退 |
-| `while supplies last` | 售完即止 |
-| `subject to availability` | 视供应情况而定 |
-| `terms and conditions apply` | 适用相关条款 |
-| `offer expires 31 October` | 优惠 10 月 31 日截止 |
+| `not valid in conjunction with any other offer` | cannot be combined with other discounts |
+| `All sales are final.` | **no refunds or exchanges** |
+| `Membership fees are non-refundable.` | fees are not returned |
+| `while supplies last` | until stock runs out |
+| `subject to availability` | depends on availability |
+| `terms and conditions apply` | conditions attached |
+| `offer expires 31 October` | the deadline |
 
-**Part 7 的细节题有很高比例出在小字里**，因为正文都是好话，只有小字有"限制"，而限制才能出题。养成习惯：**广告读完正文后，一定把斜体/小字那段读完。**
+**A high proportion of Part 7 detail questions come out of the small print**, because the body copy contains nothing but praise and only the fine print carries constraints. Make it a habit: **after the body of an advertisement, always read the italic line at the bottom.**
 
 ### 5. `endorsement` / `spokesperson` / `imply`
 
 > Advertisements do not **necessarily imply endorsement** by management.
 
-- **`endorsement`**＝**① 代言、认可 ② 背书（支票）**
-  动词 `endorse`：`endorse a product`＝为产品代言／`endorse a candidate`＝表态支持
-- **`spokesperson`**＝发言人（`spokesman/spokeswoman` 的中性写法）
-  `model spokesperson`＝**形象代言人**（model 在这里是名词作定语"模特/典范"）
-- **`imply`**＝**暗示、意味着**（名词 `implication`）
-  ⚠️ `imply`（说话方暗示）vs `infer`（听话方推断）——方向相反，托业考过
+- **`endorsement`** = ① **public approval or sponsorship** ② the signature on the back of a cheque
+  Verb `endorse`: `endorse a product` (to advertise it), `endorse a candidate` (to back them)
+- **`spokesperson`** = **an official representative** (the gender-neutral form of *spokesman/spokeswoman*)
+  `model spokesperson` = **a brand ambassador** (*model* here is a noun used attributively)
+- **`imply`** = **to suggest without stating**. Noun `implication`.
+  ⚠️ `imply` (the speaker suggests) vs `infer` (the listener deduces) — opposite directions, and TOEIC has tested it.
 
-**`not necessarily`**＝**未必、不一定**（部分否定）。这是一个重要的逻辑结构：
+**`not necessarily`** = **not inevitably** — a *partial* negation, and an important logical structure:
 
-| 结构 | 逻辑 |
+| Structure | Logic |
 |---|---|
-| `not necessarily` | 未必（**部分**否定） |
-| `not at all` | 完全不 |
-| `not all` | 并非所有（部分否定） |
-| `none` | 一个都没有（全否定） |
+| `not necessarily` | not inevitably (**partial** negation) |
+| `not at all` | in no way |
+| `not all` | some but not all (partial) |
+| `none` | not one (total) |
 
-那句免责声明的意思是：**"在我们刊物上登广告的公司，不代表我们认可它。"** Part 7 会问 "What does the disclaimer indicate?" → 答案就是这个。
+So the disclaimer means: **advertising with us does not mean we approve of the advertiser.** Part 7: "What does the disclaimer indicate?" → exactly that.
 
-### 6. `air` 作动词 / `commercial` 作名词
+### 6. `air` as a verb / `commercial` as a noun
 
-- **`air`** 作动词＝**播出**（电视/广播）
+- **`air`** (verb) = **to broadcast**
   > Channel 4 is **airing a special on** the Village.
-  ＝四频道要播一期关于本商业区的**专题节目**
-  - `a special on X`＝关于 X 的特别节目
-  - `be on the air`＝正在播出 ｜ `off the air`＝停播
-- **`commercial`** 作**名词**＝**电视/广播广告**（一段片子）
-  > a **thirty-second commercial**＝一则 30 秒广告
-  ⚠️ 注意区分：
-  - `commercial`（名词）＝电视广告片
-  - `advertisement / ad`（名词）＝广告（通用，含平面）
-  - `commercial`（形容词）＝商业的
+  - `a special on X` = a special programme about X
+  - `be on the air` = broadcasting | `off the air` = not broadcasting
+- **`commercial`** as a **noun** = **a broadcast advertisement**
+  > a **thirty-second commercial**
+  ⚠️ Keep them apart:
+  - `commercial` (noun) = a TV or radio spot
+  - `advertisement / ad` (noun) = an advertisement in any medium
+  - `commercial` (adjective) = relating to business
 
-  另外注意 `thirty-second` 的连字符和**单数** second —— 复合形容词里数词后的名词永远用单数：
+  Note also the form `thirty-second`: in a compound adjective, the noun after a number stays **singular**.
   `a two-hour meeting` ✅ / <s>a two-hours meeting</s> ❌
-  `24 hours' notice` ✅（这个是所有格，用复数+撇号，和上面不同！）
+  `24 hours' notice` ✅ — but that is a **possessive**, with an apostrophe and a plural. Two different rules.
 
-### 7. `for sale` vs. `on sale` —— 再练一遍
+### 7. `for sale` vs. `on sale`, a second pass
 
-Passage B 故意又埋了一次（Unit 03 讲过）：
+Passage B plants this again deliberately (it was explained in Unit 03):
 
 > The display models are **for sale** but are not **on sale** — they carry the original price.
-> 橱窗里的样品**是卖的**，但**不打折**——按原价。
+> They can be bought, but they are not discounted.
 
-后半句 `they carry the original price` 是解释线索，**Part 7 里几乎总会给这种"解释性补充"来帮你确认词义**。读到不确定的词时，先往后看一句，往往答案就在那里。
+The clause `they carry the original price` is a gloss on the distinction. **Part 7 nearly always supplies this kind of clarifying follow-up**, so when a word is uncertain, read one clause further before deciding — the answer is usually right there.
 
 ### 8. `award` / `give away` / `discretion` / `in its entirety`
 
-- **`award`** 动词＝**授予、颁发**
-  > **award generous prizes to** the winners＝向获奖者颁发丰厚奖品
-  结构：`award sb sth` ＝ `award sth to sb`（双宾语）
-  名词 `award`＝奖项 ｜ 易混 `reward`＝报酬、回报（对努力的补偿）
-- **`give away`**＝**赠送、免费送出**（也有"泄露秘密"的义项）
-  ⚠️ 文中玩了一个词的两种形态：`Money will be **given away** to three winners, who will each get a chance to **go away** next summer.`
-  - `give away`＝送出 ｜ `go away`＝外出度假
-  这种"同形不同义"的紧邻使用是托业阅读的常见干扰
-- **`(total) discretion`**＝**（完全的）自主裁量权**
+- **`award`** (verb) = **to confer or grant formally**
+  > **award generous prizes to** the winners
+  Patterns: `award sb sth` = `award sth to sb`.
+  Noun `award` = a prize. ⚠️ Not `reward`, which is compensation for effort or service.
+- **`give away`** = **to distribute free of charge** (also: to reveal a secret)
+  ⚠️ The passage plays two similar phrases against each other: `Money will be **given away** to three winners, who will each get a chance to **go away** next summer.`
+  - `give away` = to hand out free | `go away` = to take a holiday
+  Adjacent look-alikes of this sort are a standard TOEIC distraction.
+- **`(total) discretion`** = **complete freedom to decide**
   > The judges have **total discretion** in selecting the winners.
-  - `at one's discretion`＝由某人自行决定
-  - `discreet`（形容词，谨慎的）和 `discrete`（分立的）是另外两个词，别混
-- **`in its entirety`**＝**完整地、全部地**
+  - `at one's discretion` = as one sees fit
+  - `discreet` (tactful) and `discrete` (separate) are two other words entirely
+- **`in its entirety`** = **completely, in full**
   > Please complete the form **in its entirety**.
-  ⚠️ 语法注意：`its` 要和所指名词一致。文中 `Forms must be completed in its entirety` 严格说应是 **`in their entirety`**（因为主语是复数 Forms）。
+  ⚠️ The pronoun must agree with what it refers to. The passage has `Forms must be completed in its entirety`, which should strictly be **`in their entirety`**, since the subject *Forms* is plural.
 
-  **这是我故意留的一处错**——托业的 Part 6 "句子插入/改错"思路就是这样：先看主语单复数，再看代词。你能读出来，说明这条语法已经内化了。
-- **`be referred by`**＝**经……推荐**（refer＝引荐）；`referral`＝推荐（名词）
-- **`No correspondence will be entered into.`**＝**恕不接受任何来函查询**（比赛规则的固定套话；`correspondence`＝通信往来）
-- **`reject`**＝驳回、拒收 ｜ 近义 `turn down` / `decline`
+  **That error is there on purpose.** It is how Part 6 error-correction thinking works: check the subject's number, then check the pronoun. If you caught it while reading, that rule is already internalised.
+- **`be referred by`** = **to be recommended by** (noun `referral`)
+- **`No correspondence will be entered into.`** = **no queries about the decision will be answered** — standard competition boilerplate (`correspondence` = letters exchanged)
+- **`reject`** = to refuse or turn down | near-synonyms `turn down`, `decline`
 
 ---
 
-## 自测
+## Self-test
 
-**1.** "free weights" 指的是什么？
-(A) 免费的重量训练课  (B) 哑铃、杠铃等自由重量器械  (C) 减重优惠  (D) 免费试用期
+**1.** What are "free weights"?
+(A) A complimentary weight-training class  (B) Dumbbells and barbells not fixed to a machine  (C) A weight-loss discount  (D) A free trial period
 
-<details><summary>答案与解析</summary>
+<details><summary>Answer and explanation</summary>
 
-**(B)**。`free` 在这里＝"不受约束的、不固定的"，指器械不固定在机架上，与"免费"无关。
+**(B)**. `free` here means *unattached*, describing equipment that is not mounted on a frame. It has nothing to do with cost.
 
-这是健身广告里最容易误读的一个词。文中真正免费的东西写得很清楚：`the introductory session is **free**`。
+This is the single most misread word in gym copy. What is actually free is stated plainly elsewhere: `the introductory session is **free**`.
 
 </details>
 
-**2.** 选词：This coupon is not valid ______ any other offer.
+**2.** Choose: This coupon is not valid ______ any other offer.
 (A) in conjunction with  (B) in compliance with  (C) in accordance with  (D) in respect of
 
-<details><summary>答案与解析</summary>
+<details><summary>Answer and explanation</summary>
 
-**(A) in conjunction with**＝与……同时使用。
+**(A) in conjunction with** = in combination with.
 
-(B) 符合（规定）— 见 Unit 04；(C) 依照；(D) 关于。三个干扰项都是"介词短语 + with/of"的形式，但语义完全不同。**这类题必须靠固定搭配，不能靠猜。**
-
-</details>
-
-**3.** 改错：The company aired a thirty-seconds commercial during the game.
-
-<details><summary>答案与解析</summary>
-
-→ `a thirty-**second** commercial`。
-
-复合形容词中的数词后面用**单数**：a five-year plan / a ten-minute break / a three-day conference。
-
-⚠️ 但所有格形式相反：`24 hours' notice`（24 小时的通知）用复数 + 撇号。两条规则都考，靠有没有连字符区分：**有连字符 → 单数；有撇号 → 复数。**
+(B) means conforming to a rule (Unit 04); (C) means in line with; (D) means concerning. All three distractors share the "preposition + noun + with/of" shape but differ completely in meaning. **These items can only be answered from fixed collocation, never by guessing.**
 
 </details>
 
-**4.** "Advertisements do not necessarily imply endorsement by management." 这句免责声明在说什么？
+**3.** Correct the error: The company aired a thirty-seconds commercial during the game.
 
-<details><summary>答案与解析</summary>
+<details><summary>Answer and explanation</summary>
 
-**刊登广告不代表管理方认可该产品/服务。**
+→ `a thirty-**second** commercial`.
 
-`not necessarily`＝未必（部分否定）；`endorsement`＝认可、背书。
+In a compound adjective, the noun following a number is **singular**: a five-year plan, a ten-minute break, a three-day conference.
 
-Part 7 常问 "What does the statement suggest about the advertisements?" → 正确选项通常改写成 "They are not reviewed or approved by the publisher."
+⚠️ The possessive works the opposite way: `24 hours' notice` takes the plural plus an apostrophe. Both rules are tested; tell them apart by the punctuation — **hyphen means singular, apostrophe means plural.**
 
 </details>
 
-**5.** Passage B 的抽奖规则里，参赛者必须满足什么条件？（两点）
+**4.** What does "Advertisements do not necessarily imply endorsement by management" mean?
 
-<details><summary>答案与解析</summary>
+<details><summary>Answer and explanation</summary>
 
-① **须经参与商户推荐**（must be referred by a participating merchant）
-② **表格必须填写完整**（must be completed in its entirety，不完整的会被驳回）
+**That publishing an advertisement does not mean the publisher approves of the product or service.**
 
-另外还有一条隐含的：**评委有完全裁量权，且不接受任何申诉**（No correspondence will be entered into）。
+`not necessarily` = not inevitably (partial negation); `endorsement` = approval or backing.
 
-这种"条件列举题"是 Part 7 的高频题型，问法是 "What is required of entrants?" 或 "What is NOT mentioned as a requirement?"。**做 NOT 题时，把原文里的每个条件逐一在选项里划掉，剩下的那个就是答案** —— 不要凭印象判断。
+Part 7 asks "What does the statement suggest about the advertisements?" and the correct option is usually paraphrased as *They are not reviewed or approved by the publisher.*
+
+</details>
+
+**5.** In Passage B's prize draw, what two conditions must entrants meet?
+
+<details><summary>Answer and explanation</summary>
+
+① **They must be referred by a participating merchant.**
+② **The form must be completed in full**, or the entry is rejected.
+
+There is a third, implied condition: **the judges' decision is final and no queries will be answered** (*No correspondence will be entered into*).
+
+This list-of-conditions question is frequent in Part 7, phrased as "What is required of entrants?" or "What is NOT mentioned as a requirement?" **On NOT questions, tick each stated condition off against the options one by one** — do not answer from a general impression of the passage.
 
 </details>
 
 ---
 
-[← 上一单元](06-labor.md) ｜ [返回当日目录](README.md) ｜ [下一单元：城市与社区（长文速读）→](08-community.md)
+[← Previous](06-labor.md) | [Day 01 index](README.md) | [Next: Community (multi-passage) →](08-community.md)
